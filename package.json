@@ -11,8 +11,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "downloadjs": "^1.4.7",
     "nuxt": "^2.0.0",
-    "@nuxtjs/pwa": "^3.0.0-0"
+    "vue-fuse": "^2.1.0",
+    "vue-infinite-loading": "^2.4.4"
   },
   "devDependencies": {}
 }

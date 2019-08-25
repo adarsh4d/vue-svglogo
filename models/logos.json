@@ -1,0 +1,6890 @@
+[
+  {
+    "title": ".NET",
+    "shortname": "dotnet",
+    "url": "http://www.microsoft.com/net",
+    "files": "dotnet.svg"
+  },
+  {
+    "title": "100tb",
+    "shortname": "100tb",
+    "url": "https://www.100tb.com/",
+    "files": "100tb.svg"
+  },
+  {
+    "title": "500px",
+    "shortname": "500px",
+    "url": "https://500px.com/",
+    "files": "500px.svg"
+  },
+  {
+    "title": "6px",
+    "shortname": "6px",
+    "url": "https://6px.io/",
+    "files": "6px.svg"
+  },
+  {
+    "title": "AdMob",
+    "shortname": "admob",
+    "url": "https://www.google.com/admob/",
+    "files": "admob.svg"
+  },
+  {
+    "title": "AdRoll",
+    "shortname": "adroll",
+    "url": "https://www.adroll.com/",
+    "files": "adroll.svg"
+  },
+  {
+    "title": "Adyen",
+    "shortname": "adyen",
+    "url": "https://www.adyen.com/",
+    "files": "adyen.svg"
+  },
+  {
+    "title": "Aerospike",
+    "shortname": "aerospike",
+    "url": "http://www.aerospike.com/",
+    "files": "aerospike.svg"
+  },
+  {
+    "title": "Airbnb",
+    "shortname": "airbnb",
+    "url": "https://www.airbnb.com/",
+    "files": "airbnb.svg"
+  },
+  {
+    "title": "Airbrake",
+    "shortname": "airbrake",
+    "url": "https://airbrake.io/",
+    "files": "airbrake.svg"
+  },
+  {
+    "title": "Airflow",
+    "shortname": "airflow",
+    "url": "https://airflow.apache.org/",
+    "files": "airflow.svg"
+  },
+  {
+    "title": "Airtable",
+    "shortname": "airtable",
+    "url": "https://airtable.com/",
+    "files": "airtable.svg"
+  },
+  {
+    "title": "Akamai",
+    "shortname": "akamai",
+    "url": "https://www.akamai.com/",
+    "files": "akamai.svg",
+    "landscape": true
+  },
+  {
+    "title": "Akka",
+    "shortname": "akka",
+    "url": "https://akka.io/",
+    "files": "akka.svg"
+  },
+  {
+    "title": "Alfresco",
+    "shortname": "alfresco",
+    "url": "https://www.alfresco.com/",
+    "files": "alfresco.svg"
+  },
+  {
+    "title": "Algolia",
+    "shortname": "algolia",
+    "url": "https://www.algolia.com/",
+    "files": "algolia.svg",
+    "landscape": true
+  },
+  {
+    "title": "Altair",
+    "shortname": "altair",
+    "url": "https://altair.sirmuel.design/",
+    "files": "altair.svg"
+  },
+  {
+    "title": "Amazon Chime",
+    "shortname": "amazon-chime",
+    "url": "https://chime.aws/",
+    "files": "amazon-chime.svg"
+  },
+  {
+    "title": "Amazon Connect",
+    "shortname": "amazon-connect",
+    "url": "https://aws.amazon.com/connect/",
+    "files": "amazon-connect.svg"
+  },
+  {
+    "title": "American Express",
+    "shortname": "amex",
+    "url": "https://www.americanexpress.com/",
+    "files": "amex.svg"
+  },
+  {
+    "title": "Ampersand.js",
+    "shortname": "ampersand",
+    "url": "https://ampersandjs.com/",
+    "files": "ampersand.svg"
+  },
+  {
+    "title": "Android",
+    "shortname": "android",
+    "url": "https://www.android.com/",
+    "files": "android.svg",
+    "landscape": true
+  },
+  {
+    "title": "Android",
+    "shortname": "android",
+    "url": "https://www.android.com/",
+    "files": "android-icon.svg"
+  },
+  {
+    "title": "AngelList",
+    "shortname": "angellist",
+    "url": "https://angel.co/",
+    "files": "angellist.svg"
+  },
+  {
+    "title": "Angular",
+    "shortname": "angular",
+    "url": "https://angular.io/",
+    "files": "angular.svg",
+    "landscape": true
+  },
+  {
+    "title": "Angular",
+    "shortname": "angular",
+    "url": "https://angular.io/",
+    "files": "angular-icon.svg"
+  },
+  {
+    "title": "Ansible",
+    "shortname": "ansible",
+    "url": "http://www.ansible.com/",
+    "files": "ansible.svg"
+  },
+  {
+    "title": "Apache",
+    "shortname": "apache",
+    "url": "http://www.apache.org/",
+    "files": "apache.svg"
+  },
+  {
+    "title": "Apache Camel",
+    "shortname": "apache-camel",
+    "url": "https://camel.apache.org",
+    "files": "apache-camel.svg"
+  },
+  {
+    "title": "Apache CloudStack",
+    "shortname": "apache_cloudstack",
+    "url": "https://cloudstack.apache.org/",
+    "files": "apache_cloudstack.svg"
+  },
+  {
+    "title": "Apache Tomcat",
+    "shortname": "tomcat",
+    "url": "http://tomcat.apache.org/",
+    "files": "tomcat.svg"
+  },
+  {
+    "title": "api.ai",
+    "shortname": "api-ai",
+    "url": "https://api.ai/",
+    "files": "api-ai.svg"
+  },
+  {
+    "title": "Apiary",
+    "shortname": "apiary",
+    "url": "https://apiary.io/",
+    "files": "apiary.svg"
+  },
+  {
+    "title": "Apigee",
+    "shortname": "apigee",
+    "url": "http://apigee.com/",
+    "files": "apigee.svg",
+    "landscape": true
+  },
+  {
+    "title": "APItools",
+    "shortname": "apitools",
+    "url": "https://www.apitools.com/",
+    "files": "apitools.svg"
+  },
+  {
+    "title": "Apollo",
+    "shortname": "apollostack",
+    "url": "http://www.apollostack.com/",
+    "files": "apollostack.svg"
+  },
+  {
+    "title": "Appbase",
+    "shortname": "appbase",
+    "url": "http://appbase.io/",
+    "files": "appbase.svg"
+  },
+  {
+    "title": "Appcelerator",
+    "shortname": "appcelerator",
+    "url": "http://www.appcelerator.com/",
+    "files": "appcelerator.svg"
+  },
+  {
+    "title": "AppCode",
+    "shortname": "appcode",
+    "url": "https://www.jetbrains.com/appcode/",
+    "files": "appcode.svg"
+  },
+  {
+    "title": "AppDynamics",
+    "shortname": "appdynamics",
+    "url": "http://www.appdynamics.com/",
+    "files": "appdynamics.svg"
+  },
+  {
+    "title": "AppFog",
+    "shortname": "appfog",
+    "url": "https://www.ctl.io/appfog/",
+    "files": "appfog.svg"
+  },
+  {
+    "title": "AppHub",
+    "shortname": "apphub",
+    "url": "https://apphub.io/",
+    "files": "apphub.svg"
+  },
+  {
+    "title": "Appium",
+    "shortname": "appium",
+    "url": "http://appium.io/",
+    "files": "appium.svg"
+  },
+  {
+    "title": "Apple",
+    "shortname": "apple",
+    "url": "http://www.apple.com/",
+    "files": "apple.svg"
+  },
+  {
+    "title": "Apple iOS App Store",
+    "shortname": "apple-app-store",
+    "url": "https://www.apple.com/ios/app-store/",
+    "files": "apple-app-store.svg"
+  },
+  {
+    "title": "Apple Pay",
+    "shortname": "apple-pay",
+    "url": "https://www.apple.com/apple-pay/",
+    "files": "apple-pay.svg",
+    "landscape": true
+  },
+  {
+    "title": "Appmaker",
+    "shortname": "appmaker",
+    "url": "https://webmaker.org/appmaker",
+    "files": "appmaker.svg"
+  },
+  {
+    "title": "Apportable",
+    "shortname": "apportable",
+    "url": "http://www.apportable.com/",
+    "files": "apportable.svg"
+  },
+  {
+    "title": "AppSignal",
+    "shortname": "appsignal",
+    "url": "https://appsignal.com/",
+    "files": "appsignal.svg"
+  },
+  {
+    "title": "Apptentive",
+    "shortname": "apptentive",
+    "url": "http://apptentive.com/",
+    "files": "apptentive.svg"
+  },
+  {
+    "title": "AppVeyor",
+    "shortname": "appveyor",
+    "url": "https://www.appveyor.com/",
+    "files": "appveyor.svg"
+  },
+  {
+    "title": "ArangoDB",
+    "shortname": "arangodb",
+    "url": "https://www.arangodb.com/",
+    "files": "arangodb.svg",
+    "landscape": true
+  },
+  {
+    "title": "Archlinux",
+    "shortname": "archlinux",
+    "url": "https://www.archlinux.org/",
+    "files": "archlinux.svg"
+  },
+  {
+    "title": "Arduino",
+    "shortname": "arduino",
+    "url": "https://www.arduino.cc/",
+    "files": "arduino.svg"
+  },
+  {
+    "title": "Armory",
+    "shortname": "armory",
+    "url": "http://www.armory.io/",
+    "files": "armory.svg"
+  },
+  {
+    "title": "Asana",
+    "shortname": "asana",
+    "url": "https://asana.com/",
+    "files": "asana.svg"
+  },
+  {
+    "title": "Astronomer",
+    "shortname": "astronomer",
+    "url": "https://www.astronomer.io/",
+    "files": "astronomer.svg"
+  },
+  {
+    "title": "Atlassian",
+    "shortname": "atlassian",
+    "url": "https://www.atlassian.com/",
+    "files": "atlassian.svg"
+  },
+  {
+    "title": "Atom",
+    "shortname": "atom",
+    "url": "https://atom.io/",
+    "files": "atom.svg"
+  },
+  {
+    "title": "atomic",
+    "shortname": "atomic",
+    "url": "https://atomic.io/",
+    "files": "atomic.svg"
+  },
+  {
+    "title": "Aurelia",
+    "shortname": "aurelia",
+    "url": "http://aurelia.io/",
+    "files": "aurelia.svg"
+  },
+  {
+    "title": "Aurora",
+    "shortname": "aurora",
+    "url": "http://aurora.apache.org/",
+    "files": "aurora.svg"
+  },
+  {
+    "title": "Aurous",
+    "shortname": "aurous",
+    "url": "https://aurous.me/",
+    "files": "aurous.svg"
+  },
+  {
+    "title": "Auth0",
+    "shortname": "auth0",
+    "url": "https://auth0.com/",
+    "files": "auth0.svg"
+  },
+  {
+    "title": "Authy",
+    "shortname": "authy",
+    "url": "https://www.authy.com/",
+    "files": "authy.svg"
+  },
+  {
+    "title": "autocode",
+    "shortname": "autocode",
+    "url": "http://autocode.crystal.sh/",
+    "files": "autocode.svg"
+  },
+  {
+    "title": "AutoIt",
+    "shortname": "autoit",
+    "url": "https://www.autoitscript.com/",
+    "files": "autoit.svg"
+  },
+  {
+    "title": "Autoprefixer",
+    "shortname": "autoprefixer",
+    "url": "https://github.com/postcss/autoprefixer",
+    "files": "autoprefixer.svg"
+  },
+  {
+    "title": "Ava",
+    "shortname": "ava",
+    "url": "https://github.com/avajs/ava",
+    "files": "ava.svg"
+  },
+  {
+    "title": "Awesome",
+    "shortname": "awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "files": "awesome.svg"
+  },
+  {
+    "title": "AWS",
+    "shortname": "aws",
+    "url": "https://aws.amazon.com/",
+    "files": "aws.svg"
+  },
+  {
+    "title": "AWS API Gateway",
+    "shortname": "aws-api-gateway",
+    "url": "https://aws.amazon.com/api-gateway/",
+    "files": "aws-api-gateway.svg"
+  },
+  {
+    "title": "AWS CloudFormation",
+    "shortname": "aws-cloudformation",
+    "url": "https://aws.amazon.com/cloudformation/",
+    "files": "aws-cloudformation.svg"
+  },
+  {
+    "title": "AWS CloudFront",
+    "shortname": "aws-cloudfront",
+    "url": "https://aws.amazon.com/cloudfront/",
+    "files": "aws-cloudfront.svg"
+  },
+  {
+    "title": "AWS CloudSearch",
+    "shortname": "aws-cloudsearch",
+    "url": "https://aws.amazon.com/cloudsearch/",
+    "files": "aws-cloudsearch.svg"
+  },
+  {
+    "title": "AWS CloudWatch",
+    "shortname": "aws-cloudwatch",
+    "url": "https://aws.amazon.com/cloudwatch/",
+    "files": "aws-cloudwatch.svg"
+  },
+  {
+    "title": "AWS CodeDeploy",
+    "shortname": "aws-codedeploy",
+    "url": "https://aws.amazon.com/codedeploy/",
+    "files": "aws-codedeploy.svg"
+  },
+  {
+    "title": "AWS Cognito",
+    "shortname": "aws-cognito",
+    "url": "https://aws.amazon.com/cognito/",
+    "files": "aws-cognito.svg"
+  },
+  {
+    "title": "AWS DynamoDB",
+    "shortname": "aws-dynamodb",
+    "url": "https://aws.amazon.com/dynamodb/",
+    "files": "aws-dynamodb.svg"
+  },
+  {
+    "title": "AWS EC2 (Elastic Compute Cloud)",
+    "shortname": "aws-ec2",
+    "url": "https://aws.amazon.com/ec2/",
+    "files": "aws-ec2.svg"
+  },
+  {
+    "title": "AWS Elastic Cache",
+    "shortname": "aws-elastic-cache",
+    "url": "https://aws.amazon.com/elasticache/",
+    "files": "aws-elastic-cache.svg"
+  },
+  {
+    "title": "AWS Glacier",
+    "shortname": "aws-glacier",
+    "url": "https://aws.amazon.com/glacier/",
+    "files": "aws-glacier.svg"
+  },
+  {
+    "title": "AWS IAM (Identity and Access Management)",
+    "shortname": "aws-iam",
+    "url": "https://aws.amazon.com/iam/",
+    "files": "aws-iam.svg"
+  },
+  {
+    "title": "AWS Kinesis",
+    "shortname": "aws-kinesis",
+    "url": "https://aws.amazon.com/kinesis/",
+    "files": "aws-kinesis.svg"
+  },
+  {
+    "title": "AWS Lambda",
+    "shortname": "aws-lambda",
+    "url": "https://aws.amazon.com/lambda/",
+    "files": "aws-lambda.svg"
+  },
+  {
+    "title": "AWS Mobile Hub",
+    "shortname": "aws-mobilehub",
+    "url": "http://aws.amazon.com/mobile/",
+    "files": "aws-mobilehub.svg"
+  },
+  {
+    "title": "AWS Opworks",
+    "shortname": "aws-opsworks",
+    "url": "https://aws.amazon.com/opsworks/",
+    "files": "aws-opsworks.svg"
+  },
+  {
+    "title": "AWS QuickSight",
+    "shortname": "aws-quicksight",
+    "url": "https://quicksight.aws/",
+    "files": "aws-quicksight.svg"
+  },
+  {
+    "title": "AWS RDS (Relational Database Service)",
+    "shortname": "aws-rds",
+    "url": "https://aws.amazon.com/rds/",
+    "files": "aws-rds.svg"
+  },
+  {
+    "title": "AWS Route 53",
+    "shortname": "aws-route53",
+    "url": "https://aws.amazon.com/route53/",
+    "files": "aws-route53.svg"
+  },
+  {
+    "title": "AWS S3 (Simple Storage Service)",
+    "shortname": "aws-s3",
+    "url": "https://aws.amazon.com/s3/",
+    "files": "aws-s3.svg"
+  },
+  {
+    "title": "AWS SES (Simple Email Service)",
+    "shortname": "aws-ses",
+    "url": "https://aws.amazon.com/ses/",
+    "files": "aws-ses.svg"
+  },
+  {
+    "title": "AWS SNS (Simple Notification Service)",
+    "shortname": "aws-sns",
+    "url": "https://aws.amazon.com/sns/",
+    "files": "aws-sns.svg"
+  },
+  {
+    "title": "AWS SQS (Simple Queue Service)",
+    "shortname": "aws-sqs",
+    "url": "https://aws.amazon.com/sqs/",
+    "files": "aws-sqs.svg"
+  },
+  {
+    "title": "AWS WAF (Web Application Firewall)",
+    "shortname": "aws-waf",
+    "url": "https://aws.amazon.com/waf/",
+    "files": "aws-waf.svg"
+  },
+  {
+    "title": "Babel",
+    "shortname": "babel",
+    "url": "https://babeljs.io/",
+    "files": "babel.svg",
+    "landscape": true
+  },
+  {
+    "title": "Backbone",
+    "shortname": "backbone",
+    "url": "http://backbonejs.org/",
+    "files": "backbone.svg",
+    "landscape": true
+  },
+  {
+    "title": "Backbone",
+    "shortname": "backbone",
+    "url": "http://backbonejs.org/",
+    "files": "backbone-icon.svg"
+  },
+  {
+    "title": "BackerKit",
+    "shortname": "backerkit",
+    "url": "https://www.backerkit.com/",
+    "files": "backerkit.svg"
+  },
+  {
+    "title": "Baker Street",
+    "shortname": "baker-street",
+    "url": "http://bakerstreet.io/",
+    "files": "baker-street.svg"
+  },
+  {
+    "title": "Bamboo",
+    "shortname": "bamboo",
+    "url": "https://www.atlassian.com/software/bamboo",
+    "files": "bamboo.svg"
+  },
+  {
+    "title": "Base",
+    "shortname": "base",
+    "url": "https://getbase.com/",
+    "files": "base.svg"
+  },
+  {
+    "title": "Basecamp",
+    "shortname": "basecamp",
+    "url": "https://basecamp.com/",
+    "files": "basecamp.svg"
+  },
+  {
+    "title": "BaseKit",
+    "shortname": "basekit",
+    "url": "http://www.basekit.com/",
+    "files": "basekit.svg",
+    "landscape": true
+  },
+  {
+    "title": "Bash",
+    "shortname": "bash",
+    "url": "https://www.gnu.org/software/bash/",
+    "files": "bash.svg"
+  },
+  {
+    "title": "batch",
+    "shortname": "batch",
+    "url": "https://batch.com/",
+    "files": "batch.svg"
+  },
+  {
+    "title": "Bem",
+    "shortname": "bem",
+    "url": "https://en.bem.info/",
+    "files": "bem.svg"
+  },
+  {
+    "title": "bigpanda",
+    "shortname": "bigpanda",
+    "url": "https://bigpanda.io/",
+    "files": "bigpanda.svg"
+  },
+  {
+    "title": "Bing",
+    "shortname": "bing",
+    "url": "https://www.bing.com/",
+    "files": "bing.svg"
+  },
+  {
+    "title": "BitBalloon",
+    "shortname": "bitballoon",
+    "url": "https://www.bitballoon.com/",
+    "files": "bitballoon.svg"
+  },
+  {
+    "title": "Bitbucket",
+    "shortname": "bitbucket",
+    "url": "https://bitbucket.org/",
+    "files": "bitbucket.svg"
+  },
+  {
+    "title": "Bitcoin",
+    "shortname": "bitcoin",
+    "url": "https://bitcoin.org/",
+    "files": "bitcoin.svg"
+  },
+  {
+    "title": "Bitnami",
+    "shortname": "bitnami",
+    "url": "https://bitnami.com/",
+    "files": "bitnami.svg"
+  },
+  {
+    "title": "Bitrise",
+    "shortname": "bitrise",
+    "url": "https://www.bitrise.io/",
+    "files": "bitrise.svg"
+  },
+  {
+    "title": "Blocs",
+    "shortname": "blocs",
+    "url": "http://blocsapp.com/",
+    "files": "blocs.svg"
+  },
+  {
+    "title": "Blogger",
+    "shortname": "blogger",
+    "url": "https://www.blogger.com/",
+    "files": "blogger.svg"
+  },
+  {
+    "title": "Blossom",
+    "shortname": "blossom",
+    "url": "https://www.blossom.co/",
+    "files": "blossom.svg"
+  },
+  {
+    "title": "Bluemix",
+    "shortname": "bluemix",
+    "url": "https://console.ng.bluemix.net/",
+    "files": "bluemix.svg"
+  },
+  {
+    "title": "Blueprint",
+    "shortname": "blueprint",
+    "url": "http://blueprintjs.com/",
+    "files": "blueprint.svg"
+  },
+  {
+    "title": "Bluetooth",
+    "shortname": "bluetooth",
+    "url": "http://www.bluetooth.com/",
+    "files": "bluetooth.svg"
+  },
+  {
+    "title": "Bootstrap",
+    "shortname": "bootstrap",
+    "url": "http://getbootstrap.com/",
+    "files": "bootstrap.svg"
+  },
+  {
+    "title": "Bosun",
+    "shortname": "bosun",
+    "url": "https://bosun.org/",
+    "files": "bosun.svg"
+  },
+  {
+    "title": "Botanalytics",
+    "shortname": "botanalytics",
+    "url": "https://botanalytics.co/",
+    "files": "botanalytics.svg"
+  },
+  {
+    "title": "bourbon",
+    "shortname": "bourbon",
+    "url": "http://bourbon.io/",
+    "files": "bourbon.svg"
+  },
+  {
+    "title": "Bower",
+    "shortname": "bower",
+    "url": "http://bower.io/",
+    "files": "bower.svg"
+  },
+  {
+    "title": "Bowtie",
+    "shortname": "bowtie",
+    "url": "https://bowtie.io/",
+    "files": "bowtie.svg"
+  },
+  {
+    "title": "box",
+    "shortname": "box",
+    "url": "https://www.box.com/",
+    "files": "box.svg"
+  },
+  {
+    "title": "Brackets",
+    "shortname": "brackets",
+    "url": "http://brackets.io/",
+    "files": "brackets.svg"
+  },
+  {
+    "title": "Branch",
+    "shortname": "branch",
+    "url": "https://branch.io/",
+    "files": "branch.svg"
+  },
+  {
+    "title": "Brandfolder",
+    "shortname": "brandfolder",
+    "url": "http://brandfolder.com/",
+    "files": "brandfolder.svg"
+  },
+  {
+    "title": "Brave",
+    "shortname": "brave",
+    "url": "https://brave.com/",
+    "files": "brave.svg"
+  },
+  {
+    "title": "Braze",
+    "shortname": "braze",
+    "url": "https://www.braze.com/",
+    "files": "braze.svg"
+  },
+  {
+    "title": "Broccoli",
+    "shortname": "broccoli",
+    "url": "https://github.com/broccolijs/broccoli",
+    "files": "broccoli.svg"
+  },
+  {
+    "title": "Brotli",
+    "shortname": "brotli",
+    "url": "https://github.com/google/brotli",
+    "files": "brotli.svg"
+  },
+  {
+    "title": "Browserify",
+    "shortname": "browserify",
+    "url": "http://browserify.org/",
+    "files": "browserify-icon.svg"
+  },
+  {
+    "title": "Browserify",
+    "shortname": "browserify",
+    "url": "http://browserify.org/",
+    "files": "browserify.svg",
+    "landscape": true
+  },
+  {
+    "title": "Browserling",
+    "shortname": "browserling",
+    "url": "https://www.browserling.com/",
+    "files": "browserling.svg"
+  },
+  {
+    "title": "Browserslist",
+    "shortname": "browserslist",
+    "url": "https://github.com/browserslist/browserslist",
+    "files": "browserslist.svg"
+  },
+  {
+    "title": "BrowserStack",
+    "shortname": "browserstack",
+    "url": "https://www.browserstack.com/",
+    "files": "browserstack.svg"
+  },
+  {
+    "title": "Browsersync",
+    "shortname": "browsersync",
+    "url": "http://www.browsersync.io/",
+    "files": "browsersync.svg"
+  },
+  {
+    "title": "Brunch",
+    "shortname": "brunch",
+    "url": "http://brunch.io/",
+    "files": "brunch.svg"
+  },
+  {
+    "title": "Buck",
+    "shortname": "buck",
+    "url": "https://buckbuild.com/",
+    "files": "buck.svg"
+  },
+  {
+    "title": "Buddy",
+    "shortname": "buddy",
+    "url": "https://buddy.works/",
+    "files": "buddy.svg"
+  },
+  {
+    "title": "Buffer",
+    "shortname": "buffer",
+    "url": "https://buffer.com/",
+    "files": "buffer.svg"
+  },
+  {
+    "title": "BugHerd",
+    "shortname": "bugherd",
+    "url": "http://bugherd.com/",
+    "files": "bugherd.svg"
+  },
+  {
+    "title": "Bugsee",
+    "shortname": "bugsee",
+    "url": "https://www.bugsee.com/",
+    "files": "bugsee.svg"
+  },
+  {
+    "title": "Bugsnag",
+    "shortname": "bugsnag",
+    "url": "https://bugsnag.com/",
+    "files": "bugsnag.svg"
+  },
+  {
+    "title": "Bēhance",
+    "shortname": "behance",
+    "url": "https://www.behance.net/",
+    "files": "behance.svg",
+    "landscape": true
+  },
+  {
+    "title": "C",
+    "shortname": "c",
+    "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "files": "c.svg"
+  },
+  {
+    "title": "C++",
+    "shortname": "c++",
+    "url": "https://isocpp.org/",
+    "files": "c++.svg"
+  },
+  {
+    "title": "Cachet",
+    "shortname": "cachet",
+    "url": "https://cachethq.io/",
+    "files": "cachet.svg",
+    "landscape": true
+  },
+  {
+    "title": "Caffe2",
+    "shortname": "caffe2",
+    "url": "https://caffe2.ai/",
+    "files": "caffe2.svg"
+  },
+  {
+    "title": "CakePHP",
+    "shortname": "cakephp",
+    "url": "http://cakephp.org/",
+    "files": "cakephp.svg"
+  },
+  {
+    "title": "Campaign Monitor",
+    "shortname": "campaignmonitor",
+    "url": "https://www.campaignmonitor.com/",
+    "files": "campaignmonitor.svg"
+  },
+  {
+    "title": "Campfire",
+    "shortname": "campfire",
+    "url": "https://campfirenow.com/",
+    "files": "campfire.svg"
+  },
+  {
+    "title": "CanJS",
+    "shortname": "canjs",
+    "url": "http://canjs.com/",
+    "files": "canjs.svg"
+  },
+  {
+    "title": "Capistrano",
+    "shortname": "capistrano",
+    "url": "http://capistranorb.com/",
+    "files": "capistrano.svg"
+  },
+  {
+    "title": "Carbide",
+    "shortname": "carbide",
+    "url": "https://alpha.trycarbide.com/",
+    "files": "carbide.svg"
+  },
+  {
+    "title": "Cassandra",
+    "shortname": "cassandra",
+    "url": "http://cassandra.apache.org/",
+    "files": "cassandra.svg"
+  },
+  {
+    "title": "Celluloid",
+    "shortname": "celluloid",
+    "url": "https://celluloid.io/",
+    "files": "celluloid.svg"
+  },
+  {
+    "title": "CentOS",
+    "shortname": "centos",
+    "url": "https://www.centos.org/",
+    "files": "centos.svg",
+    "landscape": true
+  },
+  {
+    "title": "CentOS",
+    "shortname": "centos",
+    "url": "https://www.centos.org/",
+    "files": "centos-icon.svg"
+  },
+  {
+    "title": "Certbot",
+    "shortname": "certbot",
+    "url": "https://certbot.eff.org/",
+    "files": "certbot.svg",
+    "landscape": true
+  },
+  {
+    "title": "Chai",
+    "shortname": "chai",
+    "url": "http://chaijs.com/",
+    "files": "chai.svg"
+  },
+  {
+    "title": "Chalk",
+    "shortname": "chalk",
+    "url": "https://github.com/chalk/chalk",
+    "files": "chalk.svg"
+  },
+  {
+    "title": "ChangeTip",
+    "shortname": "changetip",
+    "url": "https://www.changetip.com/",
+    "files": "changetip.svg"
+  },
+  {
+    "title": "Chargebee",
+    "shortname": "chargebee",
+    "url": "https://www.chargebee.com/",
+    "files": "chargebee.svg",
+    "landscape": true
+  },
+  {
+    "title": "Chartblocks",
+    "shortname": "chartblocks",
+    "url": "http://aws.amazon.com/mobile/",
+    "files": "chartblocks.svg"
+  },
+  {
+    "title": "Chef",
+    "shortname": "chef",
+    "url": "https://www.chef.io/",
+    "files": "chef.svg"
+  },
+  {
+    "title": "chevereto",
+    "shortname": "chevereto",
+    "url": "https://chevereto.com/",
+    "files": "chevereto.svg",
+    "landscape": true
+  },
+  {
+    "title": "Chrome",
+    "shortname": "chrome",
+    "url": "http://www.google.com/chrome/",
+    "files": "chrome.svg"
+  },
+  {
+    "title": "CircleCI",
+    "shortname": "circleci",
+    "url": "https://circleci.com/",
+    "files": "circleci.svg"
+  },
+  {
+    "title": "Cirrus",
+    "shortname": "cirrus",
+    "url": "http://www.mastercard.com/ie/consumer/cirrus-card.html",
+    "files": "cirrus.svg"
+  },
+  {
+    "title": "ClickDeploy",
+    "shortname": "clickdeploy",
+    "url": "https://clickdeploy.co/",
+    "files": "clickdeploy.svg"
+  },
+  {
+    "title": "CLion",
+    "shortname": "clion",
+    "url": "https://www.jetbrains.com/clion/",
+    "files": "clion.svg"
+  },
+  {
+    "title": "Clojure",
+    "shortname": "clojure",
+    "url": "http://clojure.org/",
+    "files": "clojure.svg"
+  },
+  {
+    "title": "ClojureScript",
+    "shortname": "cljs",
+    "url": "http://cljs.info/",
+    "files": "cljs.svg"
+  },
+  {
+    "title": "Close",
+    "shortname": "close",
+    "url": "http://close.io/",
+    "files": "close.svg"
+  },
+  {
+    "title": "Cloud9",
+    "shortname": "cloud9",
+    "url": "https://c9.io/",
+    "files": "cloud9.svg"
+  },
+  {
+    "title": "CloudAcademy",
+    "shortname": "cloudacademy",
+    "url": "https://cloudacademy.com/",
+    "files": "cloudacademy.svg"
+  },
+  {
+    "title": "Cloudant",
+    "shortname": "cloudant",
+    "url": "https://cloudant.com/",
+    "files": "cloudant.svg"
+  },
+  {
+    "title": "Cloudcraft",
+    "shortname": "cloudcraft",
+    "url": "https://cloudcraft.co/",
+    "files": "cloudcraft.svg"
+  },
+  {
+    "title": "Cloudera",
+    "shortname": "cloudera",
+    "url": "http://www.cloudera.com/",
+    "files": "cloudera.svg",
+    "landscape": true
+  },
+  {
+    "title": "CloudFlare",
+    "shortname": "cloudflare",
+    "url": "https://www.cloudflare.com/",
+    "files": "cloudflare.svg"
+  },
+  {
+    "title": "Cloudinary",
+    "shortname": "cloudinary",
+    "url": "https://cloudinary.com/",
+    "files": "cloudinary.svg"
+  },
+  {
+    "title": "CloudLinux",
+    "shortname": "cloudlinux",
+    "url": "https://cloudlinux.com/",
+    "files": "cloudlinux.svg"
+  },
+  {
+    "title": "ClusterHQ",
+    "shortname": "clusterhq",
+    "url": "https://clusterhq.com/",
+    "files": "clusterhq.svg"
+  },
+  {
+    "title": "Cobalt",
+    "shortname": "cobalt",
+    "url": "https://cobalt.io/",
+    "files": "cobalt.svg"
+  },
+  {
+    "title": "Cockpit",
+    "shortname": "cockpit",
+    "url": "http://getcockpit.com/",
+    "files": "cockpit.svg"
+  },
+  {
+    "title": "CocoaPods",
+    "shortname": "cocoapods",
+    "url": "https://cocoapods.org/",
+    "files": "cocoapods.svg"
+  },
+  {
+    "title": "Codacy",
+    "shortname": "codacy",
+    "url": "https://www.codacy.com/",
+    "files": "codacy.svg"
+  },
+  {
+    "title": "Code Climate",
+    "shortname": "codeclimate",
+    "url": "https://codeclimate.com/",
+    "files": "codeclimate.svg",
+    "landscape": true
+  },
+  {
+    "title": "Code Sandbox",
+    "shortname": "codesandbox",
+    "url": "https://codesandbox.io/",
+    "files": "codesandbox.svg"
+  },
+  {
+    "title": "Code School",
+    "shortname": "codeschool",
+    "url": "https://www.codeschool.com/",
+    "files": "codeschool.svg"
+  },
+  {
+    "title": "Codebase",
+    "shortname": "codebase",
+    "url": "https://www.codebasehq.com/",
+    "files": "codebase.svg",
+    "landscape": true
+  },
+  {
+    "title": "codebeat",
+    "shortname": "codebeat",
+    "url": "https://codebeat.co/",
+    "files": "codebeat.svg"
+  },
+  {
+    "title": "codecademy",
+    "shortname": "codecademy",
+    "url": "https://www.codecademy.com/",
+    "files": "codecademy.svg",
+    "landscape": true
+  },
+  {
+    "title": "Codeception",
+    "shortname": "codeception",
+    "url": "http://codeception.com/",
+    "files": "codeception.svg"
+  },
+  {
+    "title": "Codecov",
+    "shortname": "codecov",
+    "url": "http://codecov.io/",
+    "files": "codecov.svg"
+  },
+  {
+    "title": "CodeFactor",
+    "shortname": "codefactor",
+    "url": "https://www.codefactor.io/",
+    "files": "codefactor.svg"
+  },
+  {
+    "title": "Codefund",
+    "shortname": "codefund",
+    "url": "https://www.codefund.io/",
+    "files": "codefund.svg"
+  },
+  {
+    "title": "CodeIgniter",
+    "shortname": "codeigniter",
+    "url": "http://www.codeigniter.com/",
+    "files": "codeigniter.svg"
+  },
+  {
+    "title": "Codepen",
+    "shortname": "codepen",
+    "url": "http://codepen.io/",
+    "files": "codepen-icon.svg"
+  },
+  {
+    "title": "Codepen",
+    "shortname": "codepen",
+    "url": "http://codepen.io/",
+    "files": "codepen.svg",
+    "landscape": true
+  },
+  {
+    "title": "CodePicnic",
+    "shortname": "codepicnic",
+    "url": "https://codepicnic.com/",
+    "files": "codepicnic.svg"
+  },
+  {
+    "title": "CodePush",
+    "shortname": "codepush",
+    "url": "https://microsoft.github.io/code-push/",
+    "files": "codepush.svg"
+  },
+  {
+    "title": "coderwall",
+    "shortname": "coderwall",
+    "url": "https://coderwall.com/",
+    "files": "coderwall.svg"
+  },
+  {
+    "title": "Codeship",
+    "shortname": "codeship",
+    "url": "https://codeship.com/",
+    "files": "codeship.svg"
+  },
+  {
+    "title": "Codio",
+    "shortname": "codio",
+    "url": "https://codio.com/",
+    "files": "codio.svg"
+  },
+  {
+    "title": "Codrops",
+    "shortname": "codrops",
+    "url": "http://tympanus.net/codrops/",
+    "files": "codrops.svg"
+  },
+  {
+    "title": "CoffeeScript",
+    "shortname": "coffeescript",
+    "url": "http://coffeescript.org/",
+    "files": "coffeescript.svg"
+  },
+  {
+    "title": "Compass",
+    "shortname": "compass",
+    "url": "http://compass-style.org/",
+    "files": "compass.svg"
+  },
+  {
+    "title": "Component",
+    "shortname": "component",
+    "url": "https://github.com/componentjs/component",
+    "files": "component.svg"
+  },
+  {
+    "title": "ComponentKit",
+    "shortname": "componentkit",
+    "url": "http://componentkit.org/",
+    "files": "componentkit.svg"
+  },
+  {
+    "title": "Compose",
+    "shortname": "compose",
+    "url": "https://www.compose.io/",
+    "files": "compose.svg"
+  },
+  {
+    "title": "Composer",
+    "shortname": "composer",
+    "url": "https://getcomposer.org/",
+    "files": "composer.svg"
+  },
+  {
+    "title": "Concourse",
+    "shortname": "concourse",
+    "url": "https://concourse.ci/",
+    "files": "concourse.svg"
+  },
+  {
+    "title": "concrete5",
+    "shortname": "concrete5",
+    "url": "http://www.concrete5.org/",
+    "files": "concrete5.svg"
+  },
+  {
+    "title": "Confluence",
+    "shortname": "confluence",
+    "url": "https://www.atlassian.com/software/confluence",
+    "files": "confluence.svg"
+  },
+  {
+    "title": "Consul",
+    "shortname": "consul",
+    "url": "https://www.consul.io/",
+    "files": "consul.svg"
+  },
+  {
+    "title": "ContainerShip",
+    "shortname": "containership",
+    "url": "https://containership.io/",
+    "files": "containership.svg"
+  },
+  {
+    "title": "Contentful",
+    "shortname": "contentful",
+    "url": "https://www.contentful.com/",
+    "files": "contentful.svg"
+  },
+  {
+    "title": "Convox",
+    "shortname": "convox",
+    "url": "http://convox.com/",
+    "files": "convox.svg"
+  },
+  {
+    "title": "Copyleft",
+    "shortname": "copyleft",
+    "url": "https://copyleft.org/",
+    "files": "copyleft.svg"
+  },
+  {
+    "title": "Copyleft",
+    "shortname": "copyleft",
+    "url": "https://copyleft.org/",
+    "files": "copyleft-pirate.svg"
+  },
+  {
+    "title": "Cordova",
+    "shortname": "cordova",
+    "url": "https://cordova.apache.org/",
+    "files": "cordova.svg"
+  },
+  {
+    "title": "CoreOS",
+    "shortname": "coreos",
+    "url": "https://coreos.com/",
+    "files": "coreos.svg",
+    "landscape": true
+  },
+  {
+    "title": "CoreOS",
+    "shortname": "coreos",
+    "url": "https://coreos.com/",
+    "files": "coreos-icon.svg"
+  },
+  {
+    "title": "Couchbase",
+    "shortname": "couchbase",
+    "url": "http://www.couchbase.com/",
+    "files": "couchbase.svg"
+  },
+  {
+    "title": "CouchDB",
+    "shortname": "couchdb",
+    "url": "http://couchdb.apache.org/",
+    "files": "couchdb.svg"
+  },
+  {
+    "title": "coursera",
+    "shortname": "coursera",
+    "url": "https://www.coursera.org/",
+    "files": "coursera.svg",
+    "landscape": true
+  },
+  {
+    "title": "Coveralls",
+    "shortname": "coveralls",
+    "url": "https://coveralls.io/",
+    "files": "coveralls.svg",
+    "landscape": true
+  },
+  {
+    "title": "Coverity",
+    "shortname": "coverity",
+    "url": "http://www.coverity.com/",
+    "files": "coverity.svg"
+  },
+  {
+    "title": "cPanel",
+    "shortname": "cpanel",
+    "url": "http://cpanel.com/",
+    "files": "cpanel.svg",
+    "landscape": true
+  },
+  {
+    "title": "Craft",
+    "shortname": "craft",
+    "url": "https://craftcms.com/",
+    "files": "craft.svg"
+  },
+  {
+    "title": "Crashlytics",
+    "shortname": "crashlytics",
+    "url": "https://try.crashlytics.com/",
+    "files": "crashlytics.svg"
+  },
+  {
+    "title": "CrateIO",
+    "shortname": "crateio",
+    "url": "https://crate.io/",
+    "files": "crateio.svg"
+  },
+  {
+    "title": "CreateJS",
+    "shortname": "createjs",
+    "url": "http://www.createjs.com/",
+    "files": "createjs.svg"
+  },
+  {
+    "title": "Crittercism",
+    "shortname": "crittercism",
+    "url": "https://www.crittercism.com/",
+    "files": "crittercism.svg"
+  },
+  {
+    "title": "Cross Browser Testing",
+    "shortname": "crossbrowsertesting",
+    "url": "http://crossbrowsertesting.com/",
+    "files": "crossbrowsertesting.svg"
+  },
+  {
+    "title": "CrowdProcess",
+    "shortname": "crowdprocess",
+    "url": "https://crowdprocess.com/",
+    "files": "crowdprocess.svg"
+  },
+  {
+    "title": "Crucible",
+    "shortname": "crucible",
+    "url": "https://www.atlassian.com/software/crucible",
+    "files": "crucible.svg"
+  },
+  {
+    "title": "Crystal",
+    "shortname": "crystal",
+    "url": "http://crystal-lang.org/",
+    "files": "crystal.svg"
+  },
+  {
+    "title": "CSS3",
+    "shortname": "css-3",
+    "url": "http://www.w3.org/TR/CSS/",
+    "files": "css-3_official.svg"
+  },
+  {
+    "title": "CSS3",
+    "shortname": "css-3",
+    "url": "http://www.w3.org/TR/CSS/",
+    "files": "css-3.svg"
+  },
+  {
+    "title": "cssnext",
+    "shortname": "cssnext",
+    "url": "http://cssnext.io/",
+    "files": "cssnext.svg"
+  },
+  {
+    "title": "Cucumber",
+    "shortname": "cucumber",
+    "url": "https://cucumber.io/",
+    "files": "cucumber.svg"
+  },
+  {
+    "title": "Customer.io",
+    "shortname": "customerio",
+    "url": "http://customer.io/",
+    "files": "customerio.svg"
+  },
+  {
+    "title": "Cycle.js",
+    "shortname": "cyclejs",
+    "url": "http://cycle.js.org/",
+    "files": "cyclejs.svg"
+  },
+  {
+    "title": "Cypress",
+    "shortname": "cypress",
+    "url": "https://www.cypress.io/",
+    "files": "cypress.svg"
+  },
+  {
+    "title": "D3",
+    "shortname": "d3",
+    "url": "http://d3js.org/",
+    "files": "d3.svg"
+  },
+  {
+    "title": "dapulse",
+    "shortname": "dapulse",
+    "url": "https://dapulse.com/",
+    "files": "dapulse.svg"
+  },
+  {
+    "title": "Dart",
+    "shortname": "dart",
+    "url": "https://dart.dev/",
+    "files": "dart.svg"
+  },
+  {
+    "title": "Dashlane",
+    "shortname": "dashlane",
+    "url": "https://www.dashlane.com/",
+    "files": "dashlane.svg",
+    "landscape": true
+  },
+  {
+    "title": "dat",
+    "shortname": "dat",
+    "url": "http://dat-data.com/",
+    "files": "dat.svg"
+  },
+  {
+    "title": "Database Labs",
+    "shortname": "database-labs",
+    "url": "https://www.databaselabs.io/",
+    "files": "database-labs.svg"
+  },
+  {
+    "title": "DC/OS",
+    "shortname": "dcos",
+    "url": "https://dcos.io/",
+    "files": "dcos.svg"
+  },
+  {
+    "title": "debian",
+    "shortname": "debian",
+    "url": "https://www.debian.org/",
+    "files": "debian.svg"
+  },
+  {
+    "title": "Delicious",
+    "shortname": "delicious",
+    "url": "https://delicious.com/",
+    "files": "delicious.svg"
+  },
+  {
+    "title": "DeliciousDB",
+    "shortname": "deliciousdb",
+    "url": "http://deliciousdb.com/",
+    "files": "delicious-burger.svg"
+  },
+  {
+    "title": "Delighted",
+    "shortname": "delighted",
+    "url": "https://delighted.com/",
+    "files": "delighted.svg"
+  },
+  {
+    "title": "Dependency CI",
+    "shortname": "dependencyci",
+    "url": "https://dependencyci.com/",
+    "files": "dependencyci.svg"
+  },
+  {
+    "title": "Deploy",
+    "shortname": "deploy",
+    "url": "https://www.deployhq.com/",
+    "files": "deploy.svg",
+    "landscape": true
+  },
+  {
+    "title": "deppbot",
+    "shortname": "deppbot",
+    "url": "https://www.deppbot.com/",
+    "files": "deppbot.svg"
+  },
+  {
+    "title": "Derby",
+    "shortname": "derby",
+    "url": "http://derbyjs.com/",
+    "files": "derby.svg"
+  },
+  {
+    "title": "Designer News",
+    "shortname": "designernews",
+    "url": "https://www.designernews.co/",
+    "files": "designernews.svg"
+  },
+  {
+    "title": "Desk.com",
+    "shortname": "desk",
+    "url": "http://www.desk.com/",
+    "files": "desk.svg"
+  },
+  {
+    "title": "DeviantArt",
+    "shortname": "deviantart",
+    "url": "http://www.deviantart.com/",
+    "files": "deviantart.svg",
+    "landscape": true
+  },
+  {
+    "title": "DigitalOcean",
+    "shortname": "digitalocean",
+    "url": "https://www.digitalocean.com/",
+    "files": "digital-ocean.svg"
+  },
+  {
+    "title": "Dimer",
+    "shortname": "dimer",
+    "url": "https://dimerapp.com/",
+    "files": "dimer.svg",
+    "landscape": true
+  },
+  {
+    "title": "Diners Club",
+    "shortname": "dinersclub",
+    "url": "https://www.dinersclub.com/",
+    "files": "dinersclub.svg",
+    "landscape": true
+  },
+  {
+    "title": "Discord",
+    "shortname": "discord",
+    "url": "https://discordapp.com/",
+    "files": "discord.svg"
+  },
+  {
+    "title": "Discover",
+    "shortname": "discover",
+    "url": "https://www.discover.com/",
+    "files": "discover.svg",
+    "landscape": true
+  },
+  {
+    "title": "Disqus",
+    "shortname": "disqus",
+    "url": "https://disqus.com/",
+    "files": "disqus.svg"
+  },
+  {
+    "title": "distelli",
+    "shortname": "distelli",
+    "url": "http://distelli.com/",
+    "files": "distelli.svg"
+  },
+  {
+    "title": "Divshot",
+    "shortname": "divshot",
+    "url": "https://divshot.com/",
+    "files": "divshot.svg"
+  },
+  {
+    "title": "Django",
+    "shortname": "django",
+    "url": "https://www.djangoproject.com/",
+    "files": "django.svg"
+  },
+  {
+    "title": "Dockbit",
+    "shortname": "dockbit",
+    "url": "https://dockbit.com/",
+    "files": "dockbit.svg"
+  },
+  {
+    "title": "docker",
+    "shortname": "docker",
+    "url": "https://www.docker.com/",
+    "files": "docker.svg"
+  },
+  {
+    "title": "Doctrine",
+    "shortname": "doctrine",
+    "url": "http://www.doctrine-project.org/",
+    "files": "doctrine.svg"
+  },
+  {
+    "title": "Docusaurus",
+    "shortname": "docusaurus",
+    "url": "https://docusaurus.io/",
+    "files": "docusaurus.svg"
+  },
+  {
+    "title": "Dojo",
+    "shortname": "dojo",
+    "url": "https://dojo.io/",
+    "files": "dojo.svg",
+    "landscape": true
+  },
+  {
+    "title": "Dojo",
+    "shortname": "dojo",
+    "url": "https://dojo.io/",
+    "files": "dojo-icon.svg"
+  },
+  {
+    "title": "Dojo Toolkit",
+    "shortname": "dojo",
+    "url": "https://dojotoolkit.org/",
+    "files": "dojo-toolkit.svg"
+  },
+  {
+    "title": "dotCloud",
+    "shortname": "dotcloud",
+    "url": "https://www.dotcloud.com/",
+    "files": "dotcloud.svg"
+  },
+  {
+    "title": "DoubleClick",
+    "shortname": "doubleclick",
+    "url": "https://www.doubleclickbygoogle.com/",
+    "files": "doubleclick.svg"
+  },
+  {
+    "title": "DreamFactory",
+    "shortname": "dreamfactory",
+    "url": "https://www.dreamfactory.com/",
+    "files": "dreamfactory.svg"
+  },
+  {
+    "title": "DreamHost",
+    "shortname": "dreamhost",
+    "url": "https://www.dreamhost.com/",
+    "files": "dreamhost.svg"
+  },
+  {
+    "title": "dribbble",
+    "shortname": "dribbble",
+    "url": "https://www.dribbble.com/",
+    "files": "dribbble.svg",
+    "landscape": true
+  },
+  {
+    "title": "dribbble",
+    "shortname": "dribbble",
+    "url": "https://www.dribbble.com/",
+    "files": "dribbble-icon.svg"
+  },
+  {
+    "title": "Drift",
+    "shortname": "drift",
+    "url": "https://www.drift.com/",
+    "files": "drift.svg"
+  },
+  {
+    "title": "Drip",
+    "shortname": "drip",
+    "url": "https://www.getdrip.com/",
+    "files": "drip.svg"
+  },
+  {
+    "title": "Drone",
+    "shortname": "drone",
+    "url": "https://drone.io/",
+    "files": "drone.svg"
+  },
+  {
+    "title": "Dropbox",
+    "shortname": "dropbox",
+    "url": "https://www.dropbox.com/",
+    "files": "dropbox.svg"
+  },
+  {
+    "title": "dropmark",
+    "shortname": "dropmark",
+    "url": "http://www.dropmark.com/",
+    "files": "dropmark.svg"
+  },
+  {
+    "title": "Dropzone",
+    "shortname": "dropzone",
+    "url": "http://www.dropzonejs.com/",
+    "files": "dropzone.svg"
+  },
+  {
+    "title": "Drupal",
+    "shortname": "drupal",
+    "url": "https://www.drupal.org/",
+    "files": "drupal.svg"
+  },
+  {
+    "title": "DuckDuckGo",
+    "shortname": "duckduckgo",
+    "url": "https://duckduckgo.com/",
+    "files": "duckduckgo.svg"
+  },
+  {
+    "title": "Dyn",
+    "shortname": "dyndns",
+    "url": "http://dyn.com/dns/",
+    "files": "dyndns.svg"
+  },
+  {
+    "title": "Eager",
+    "shortname": "eager",
+    "url": "https://eager.io/",
+    "files": "eager.svg"
+  },
+  {
+    "title": "EBANX",
+    "shortname": "ebanx",
+    "url": "https://www.ebanx.com",
+    "files": "ebanx.svg",
+    "landscape": true
+  },
+  {
+    "title": "Eclipse",
+    "shortname": "eclipse",
+    "url": "https://eclipse.org/",
+    "files": "eclipse.svg"
+  },
+  {
+    "title": "egghead",
+    "shortname": "egghead",
+    "url": "https://egghead.io/",
+    "files": "egghead.svg"
+  },
+  {
+    "title": "ElasticBox",
+    "shortname": "elasticbox",
+    "url": "https://elasticbox.com/",
+    "files": "elasticbox.svg"
+  },
+  {
+    "title": "Elasticsearch",
+    "shortname": "elasticsearch",
+    "url": "https://www.elastic.co/products/elasticsearch",
+    "files": "elasticsearch.svg"
+  },
+  {
+    "title": "Electron",
+    "shortname": "electron",
+    "url": "http://electron.atom.io/",
+    "files": "electron.svg"
+  },
+  {
+    "title": "Element",
+    "shortname": "element",
+    "url": "https://element.eleme.io/",
+    "files": "element.svg"
+  },
+  {
+    "title": "Elemental UI",
+    "shortname": "elemental-ui",
+    "url": "http://elemental-ui.com/",
+    "files": "elemental-ui.svg"
+  },
+  {
+    "title": "elementary OS",
+    "shortname": "elementary",
+    "url": "https://elementary.io/",
+    "files": "elementary.svg"
+  },
+  {
+    "title": "ello",
+    "shortname": "ello",
+    "url": "https://ello.co/",
+    "files": "ello.svg"
+  },
+  {
+    "title": "elm",
+    "shortname": "elm",
+    "url": "http://elm-lang.org/",
+    "files": "elm.svg"
+  },
+  {
+    "title": "Elo",
+    "shortname": "elo",
+    "url": "https://www.cartaoelo.com.br/",
+    "files": "elo.svg"
+  },
+  {
+    "title": "Emacs",
+    "shortname": "emacs",
+    "url": "http://www.gnu.org/software/emacs/",
+    "files": "emacs.svg"
+  },
+  {
+    "title": "Embedly",
+    "shortname": "embedly",
+    "url": "http://embed.ly/",
+    "files": "embedly.svg"
+  },
+  {
+    "title": "Ember",
+    "shortname": "ember",
+    "url": "http://emberjs.com/",
+    "files": "ember.svg",
+    "landscape": true
+  },
+  {
+    "title": "Ember",
+    "shortname": "ember",
+    "url": "http://emberjs.com/",
+    "files": "ember-tomster.svg"
+  },
+  {
+    "title": "Emmet",
+    "shortname": "emmet",
+    "url": "http://emmet.io/",
+    "files": "emmet.svg"
+  },
+  {
+    "title": "Engine Yard",
+    "shortname": "engine-yard",
+    "url": "https://www.engineyard.com/",
+    "files": "engine-yard.svg"
+  },
+  {
+    "title": "Envato",
+    "shortname": "envato",
+    "url": "http://www.envato.com/",
+    "files": "envato.svg",
+    "landscape": true
+  },
+  {
+    "title": "Envoyer",
+    "shortname": "envoyer",
+    "url": "https://envoyer.io/",
+    "files": "envoyer.svg"
+  },
+  {
+    "title": "Enyo",
+    "shortname": "enyo",
+    "url": "http://enyojs.com/",
+    "files": "enyo.svg"
+  },
+  {
+    "title": "Erlang",
+    "shortname": "erlang",
+    "url": "http://www.erlang.org/",
+    "files": "erlang.svg"
+  },
+  {
+    "title": "ES6",
+    "shortname": "es6",
+    "url": "http://www.ecmascript.org/",
+    "files": "es6.svg"
+  },
+  {
+    "title": "ESDoc",
+    "shortname": "esdoc",
+    "url": "https://esdoc.org/",
+    "files": "esdoc.svg"
+  },
+  {
+    "title": "ESLint",
+    "shortname": "eslint",
+    "url": "http://eslint.org/",
+    "files": "eslint.svg"
+  },
+  {
+    "title": "Eta",
+    "shortname": "eta-lang",
+    "url": "http://eta-lang.org/",
+    "files": "eta-lang.svg"
+  },
+  {
+    "title": "etcd",
+    "shortname": "etcd",
+    "url": "https://github.com/coreos/etcd",
+    "files": "etcd.svg"
+  },
+  {
+    "title": "Ethereum",
+    "shortname": "ethereum",
+    "url": "https://www.ethereum.org/",
+    "files": "ethereum.svg"
+  },
+  {
+    "title": "Ethnio",
+    "shortname": "ethnio",
+    "url": "https://ethn.io/",
+    "files": "ethnio.svg"
+  },
+  {
+    "title": "Eventbrite",
+    "shortname": "eventbrite",
+    "url": "https://www.eventbrite.com/",
+    "files": "eventbrite.svg",
+    "landscape": true
+  },
+  {
+    "title": "EventSentry",
+    "shortname": "eventsentry",
+    "url": "http://www.eventsentry.com/",
+    "files": "eventsentry.svg"
+  },
+  {
+    "title": "Expo",
+    "shortname": "expo",
+    "url": "https://expo.io/",
+    "files": "expo.svg"
+  },
+  {
+    "title": "Express",
+    "shortname": "express",
+    "url": "http://expressjs.com/",
+    "files": "express.svg",
+    "landscape": true
+  },
+  {
+    "title": "F#",
+    "shortname": "fsharp",
+    "url": "http://fsharp.org/",
+    "files": "fsharp.svg"
+  },
+  {
+    "title": "Fabric",
+    "shortname": "fabric",
+    "url": "http://www.fabfile.org/",
+    "files": "fabric.svg"
+  },
+  {
+    "title": "Fabric",
+    "shortname": "fabric_io",
+    "url": "https://get.fabric.io/",
+    "files": "fabric_io.svg"
+  },
+  {
+    "title": "Facebook",
+    "shortname": "facebook",
+    "url": "https://www.facebook.com/",
+    "files": "facebook.svg"
+  },
+  {
+    "title": "Falcor",
+    "shortname": "falcor",
+    "url": "http://netflix.github.io/falcor/",
+    "files": "falcor.svg"
+  },
+  {
+    "title": "Famo.us",
+    "shortname": "famous",
+    "url": "http://famous.org/",
+    "files": "famous.svg"
+  },
+  {
+    "title": "Fastlane",
+    "shortname": "fastlane",
+    "url": "https://fastlane.tools/",
+    "files": "fastlane.svg"
+  },
+  {
+    "title": "Fastly",
+    "shortname": "fastly",
+    "url": "https://www.fastly.com/",
+    "files": "fastly.svg",
+    "landscape": true
+  },
+  {
+    "title": "feathersjs",
+    "shortname": "feathersjs",
+    "url": "http://feathersjs.com/",
+    "files": "feathersjs.svg"
+  },
+  {
+    "title": "fedora",
+    "shortname": "fedora",
+    "url": "https://getfedora.org/",
+    "files": "fedora.svg"
+  },
+  {
+    "title": "Firebase",
+    "shortname": "firebase",
+    "url": "https://www.firebase.com/",
+    "files": "firebase.svg"
+  },
+  {
+    "title": "Firefox",
+    "shortname": "firefox",
+    "url": "https://firefox.com/",
+    "files": "firefox.svg"
+  },
+  {
+    "title": "flannel",
+    "shortname": "flannel",
+    "url": "https://github.com/coreos/flannel",
+    "files": "flannel.svg"
+  },
+  {
+    "title": "Flarum",
+    "shortname": "flarum",
+    "url": "http://flarum.org/",
+    "files": "flarum.svg",
+    "landscape": true
+  },
+  {
+    "title": "Flask",
+    "shortname": "flask",
+    "url": "http://flask.pocoo.org/",
+    "files": "flask.svg"
+  },
+  {
+    "title": "Flat UI",
+    "shortname": "flat-ui",
+    "url": "http://designmodo.github.io/Flat-UI/",
+    "files": "flat-ui.svg"
+  },
+  {
+    "title": "Flattr",
+    "shortname": "flattr",
+    "url": "https://flattr.com/",
+    "files": "flattr.svg"
+  },
+  {
+    "title": "Fleep",
+    "shortname": "fleep",
+    "url": "https://fleep.io/",
+    "files": "fleep.svg"
+  },
+  {
+    "title": "flexible.gs",
+    "shortname": "flexible-gs",
+    "url": "http://flexible.gs/",
+    "files": "flexible-gs.svg"
+  },
+  {
+    "title": "flickr",
+    "shortname": "flickr",
+    "url": "https://www.flickr.com/",
+    "files": "flickr.svg",
+    "landscape": true
+  },
+  {
+    "title": "flickr",
+    "shortname": "flickr",
+    "url": "https://www.flickr.com/",
+    "files": "flickr-icon.svg"
+  },
+  {
+    "title": "Flight",
+    "shortname": "flight",
+    "url": "https://flightjs.github.io/",
+    "files": "flight.svg"
+  },
+  {
+    "title": "Flocker",
+    "shortname": "flocker",
+    "url": "https://clusterhq.com/flocker/",
+    "files": "flocker.svg"
+  },
+  {
+    "title": "Flood IO",
+    "shortname": "floodio",
+    "url": "https://flood.io/",
+    "files": "floodio.svg"
+  },
+  {
+    "title": "Flow",
+    "shortname": "flow",
+    "url": "http://flowtype.org/",
+    "files": "flow.svg"
+  },
+  {
+    "title": "FlowXO",
+    "shortname": "flowxo",
+    "url": "https://flowxo.com/",
+    "files": "flowxo.svg"
+  },
+  {
+    "title": "FloydHub",
+    "shortname": "floydhub",
+    "url": "https://www.floydhub.com/",
+    "files": "floydhub.svg"
+  },
+  {
+    "title": "Flutter",
+    "shortname": "flutter",
+    "url": "https://flutter.dev",
+    "files": "flutter.svg"
+  },
+  {
+    "title": "Flux",
+    "shortname": "flux",
+    "url": "https://facebook.github.io/flux/",
+    "files": "flux.svg"
+  },
+  {
+    "title": "Fluxxor",
+    "shortname": "fluxxor",
+    "url": "http://fluxxor.com/",
+    "files": "fluxxor.svg"
+  },
+  {
+    "title": "Fly",
+    "shortname": "flyjs",
+    "url": "https://github.com/flyjs/fly",
+    "files": "flyjs.svg"
+  },
+  {
+    "title": "Fly",
+    "shortname": "fly",
+    "url": "https://fly.io/",
+    "files": "fly.svg"
+  },
+  {
+    "title": "Fomo",
+    "shortname": "fomo",
+    "url": "https://www.usefomo.com/",
+    "files": "fomo.svg"
+  },
+  {
+    "title": "Font Awesome",
+    "shortname": "font-awesome",
+    "url": "https://fontawesome.com/",
+    "files": "font-awesome.svg"
+  },
+  {
+    "title": "Forest",
+    "shortname": "forest",
+    "url": "http://www.forestadmin.com/",
+    "files": "forest.svg"
+  },
+  {
+    "title": "Forever",
+    "shortname": "forever",
+    "url": "https://github.com/foreverjs/forever",
+    "files": "forever.svg"
+  },
+  {
+    "title": "FormKeep",
+    "shortname": "formkeep",
+    "url": "https://formkeep.com/",
+    "files": "formkeep.svg"
+  },
+  {
+    "title": "Foundation",
+    "shortname": "foundation",
+    "url": "http://foundation.zurb.com/",
+    "files": "foundation.svg"
+  },
+  {
+    "title": "Framed",
+    "shortname": "framed",
+    "url": "http://framed.io/",
+    "files": "framed.svg"
+  },
+  {
+    "title": "Framework7",
+    "shortname": "framework7",
+    "url": "https://framework7.io/",
+    "files": "framework7.svg"
+  },
+  {
+    "title": "Free Cultural Works",
+    "shortname": "freedomdefined",
+    "url": "http://freedomdefined.org/",
+    "files": "freedomdefined.svg"
+  },
+  {
+    "title": "FreeBSD",
+    "shortname": "freebsd",
+    "url": "https://www.freebsd.org/",
+    "files": "freebsd.svg"
+  },
+  {
+    "title": "freedcamp",
+    "shortname": "freedcamp",
+    "url": "https://freedcamp.com/",
+    "files": "freedcamp.svg"
+  },
+  {
+    "title": "Front",
+    "shortname": "frontapp",
+    "url": "https://frontapp.com/",
+    "files": "frontapp.svg"
+  },
+  {
+    "title": "Fuchsia",
+    "shortname": "fuchsia",
+    "url": "https://github.com/fuchsia-mirror",
+    "files": "fuchsia.svg"
+  },
+  {
+    "title": "GalliumOS",
+    "shortname": "galliumos",
+    "url": "https://galliumos.org/",
+    "files": "galliumos.svg"
+  },
+  {
+    "title": "GameAnalytics",
+    "shortname": "game-analytics",
+    "url": "https://gameanalytics.com/",
+    "files": "game-analytics.svg"
+  },
+  {
+    "title": "Gatsby",
+    "shortname": "gatsby",
+    "url": "https://www.gatsbyjs.org/",
+    "files": "gatsby.svg"
+  },
+  {
+    "title": "Gauge",
+    "shortname": "gaugeio",
+    "url": "http://getgauge.io/",
+    "files": "gaugeio.svg"
+  },
+  {
+    "title": "geekbot",
+    "shortname": "geekbot",
+    "url": "https://geekbot.io/",
+    "files": "geekbot.svg"
+  },
+  {
+    "title": "Get Satisfaction",
+    "shortname": "get-satisfaction",
+    "url": "https://getsatisfaction.com/",
+    "files": "get-satisfaction.svg",
+    "landscape": true
+  },
+  {
+    "title": "Ghost",
+    "shortname": "ghost",
+    "url": "https://ghost.org/",
+    "files": "ghost.svg",
+    "landscape": true
+  },
+  {
+    "title": "Giant Swarm",
+    "shortname": "giantswarm",
+    "url": "https://giantswarm.io/",
+    "files": "giantswarm.svg"
+  },
+  {
+    "title": "Git",
+    "shortname": "git",
+    "url": "https://git-scm.com/",
+    "files": "git.svg",
+    "landscape": true
+  },
+  {
+    "title": "Git",
+    "shortname": "git",
+    "url": "https://git-scm.com/",
+    "files": "git-icon.svg"
+  },
+  {
+    "title": "Gitboard",
+    "shortname": "gitboard",
+    "url": "http://adewes.github.io/gitboard/",
+    "files": "gitboard.svg"
+  },
+  {
+    "title": "GitBook",
+    "shortname": "gitBook",
+    "url": "https://www.gitbook.com/",
+    "files": "gitBook.svg",
+    "landscape": true
+  },
+  {
+    "title": "Github",
+    "shortname": "github",
+    "url": "https://github.com/",
+    "files": "github.svg",
+    "landscape": true
+  },
+  {
+    "title": "Github",
+    "shortname": "github",
+    "url": "https://github.com/",
+    "files": "github-octocat.svg"
+  },
+  {
+    "title": "Github",
+    "shortname": "github",
+    "url": "https://github.com/",
+    "files": "github-icon.svg"
+  },
+  {
+    "title": "GitKraken",
+    "shortname": "gitkraken",
+    "url": "https://www.gitkraken.com/",
+    "files": "gitkraken.svg"
+  },
+  {
+    "title": "Gitlab",
+    "shortname": "gitlab",
+    "url": "https://about.gitlab.com/",
+    "files": "gitlab.svg"
+  },
+  {
+    "title": "Gitter",
+    "shortname": "gitter",
+    "url": "https://gitter.im/",
+    "files": "gitter.svg"
+  },
+  {
+    "title": "GitUp",
+    "shortname": "gitup",
+    "url": "http://gitup.co/",
+    "files": "gitup.svg"
+  },
+  {
+    "title": "Glamorous",
+    "shortname": "glamorous",
+    "url": "https://glamorous.rocks/",
+    "files": "glamorous.svg"
+  },
+  {
+    "title": "Gleam",
+    "shortname": "gleam",
+    "url": "https://gleam.io/",
+    "files": "gleam.svg"
+  },
+  {
+    "title": "Glimmer",
+    "shortname": "glimmerjs",
+    "url": "https://glimmerjs.com",
+    "files": "glimmerjs.svg"
+  },
+  {
+    "title": "Glint",
+    "shortname": "glint",
+    "url": "http://www.glintinc.com/",
+    "files": "glint.svg",
+    "landscape": true
+  },
+  {
+    "title": "GNU",
+    "shortname": "gnu",
+    "url": "https://www.gnu.org/",
+    "files": "gnu.svg"
+  },
+  {
+    "title": "Go",
+    "shortname": "go",
+    "url": "https://golang.org/",
+    "files": "gopher.svg"
+  },
+  {
+    "title": "GoCD",
+    "shortname": "gocd",
+    "url": "https://www.go.cd/",
+    "files": "gocd.svg"
+  },
+  {
+    "title": "Gomix",
+    "shortname": "gomix",
+    "url": "https://gomix.com/",
+    "files": "gomix.svg"
+  },
+  {
+    "title": "Google",
+    "shortname": "google",
+    "url": "http://www.google.com/",
+    "files": "google.svg",
+    "landscape": true
+  },
+  {
+    "title": "Google",
+    "shortname": "google",
+    "url": "http://www.google.com/",
+    "files": "google-icon.svg"
+  },
+  {
+    "title": "Google +",
+    "shortname": "googleplus",
+    "url": "https://plus.google.com/",
+    "files": "google-plus.svg"
+  },
+  {
+    "title": "Google 360 Suite",
+    "shortname": "google-360suite",
+    "url": "https://marketingplatform.google.com/about/enterprise/",
+    "files": "google-360suite.svg"
+  },
+  {
+    "title": "Google Ads",
+    "shortname": "google-ads",
+    "url": "https://ads.google.com/home/",
+    "files": "google-ads.svg"
+  },
+  {
+    "title": "Google AdSense",
+    "shortname": "google-adsense",
+    "url": "http://www.google.com/adsense/",
+    "files": "google-adsense.svg"
+  },
+  {
+    "title": "Google AdWords",
+    "shortname": "google-adwords",
+    "url": "http://www.google.com/adwords/",
+    "files": "google-adwords.svg"
+  },
+  {
+    "title": "Google Analytics",
+    "shortname": "google-analytics",
+    "url": "http://www.google.com/analytics/",
+    "files": "google-analytics.svg"
+  },
+  {
+    "title": "Google Calendar",
+    "shortname": "google-calendar",
+    "url": "https://www.google.com/calendar/about/",
+    "files": "google-calendar.svg"
+  },
+  {
+    "title": "Google Cloud",
+    "shortname": "google-cloud",
+    "url": "https://cloud.google.com/",
+    "files": "google-cloud.svg"
+  },
+  {
+    "title": "Google Cloud Functions",
+    "shortname": "google-cloud-functions",
+    "url": "https://cloud.google.com/functions/",
+    "files": "google-cloud-functions.svg"
+  },
+  {
+    "title": "Google Cloud Platform",
+    "shortname": "google-cloud-platform",
+    "url": "https://cloud.google.com/gcp/",
+    "files": "google-cloud-platform.svg"
+  },
+  {
+    "title": "Google Cloud Run",
+    "shortname": "google-cloud-run",
+    "url": "https://cloud.google.com/run/",
+    "files": "google-cloud-run.svg"
+  },
+  {
+    "title": "Google Data Studio",
+    "shortname": "google-data-studio",
+    "url": "https://marketingplatform.google.com/about/data-studio/",
+    "files": "google-data-studio.svg"
+  },
+  {
+    "title": "Google Developers",
+    "shortname": "google-developers",
+    "url": "https://developers.google.com/",
+    "files": "google-developers.svg"
+  },
+  {
+    "title": "Google Drive",
+    "shortname": "google-drive",
+    "url": "https://www.google.com/drive/",
+    "files": "google-drive.svg"
+  },
+  {
+    "title": "Google G Suite",
+    "shortname": "google-gsuite",
+    "url": "https://gsuite.google.com/",
+    "files": "google-gsuite.svg",
+    "landscape": true
+  },
+  {
+    "title": "Google Gmail",
+    "shortname": "google-gmail",
+    "url": "http://gmail.com/",
+    "files": "google-gmail.svg"
+  },
+  {
+    "title": "Google Inbox",
+    "shortname": "google-inbox",
+    "url": "https://www.google.com/inbox/",
+    "files": "google-inbox.svg"
+  },
+  {
+    "title": "Google Marketing Platform",
+    "shortname": "google-marketing-platform",
+    "url": "https://marketingplatform.google.com/about/",
+    "files": "google-marketing-platform.svg"
+  },
+  {
+    "title": "Google Meet",
+    "shortname": "google-meet",
+    "url": "https://meet.google.com/",
+    "files": "google-meet.svg"
+  },
+  {
+    "title": "Google Optimize",
+    "shortname": "google-optimize",
+    "url": "https://marketingplatform.google.com/about/optimize/",
+    "files": "google-optimize.svg"
+  },
+  {
+    "title": "Google Pay",
+    "shortname": "google-pay",
+    "url": "https://pay.google.com/about/",
+    "files": "google-pay.svg"
+  },
+  {
+    "title": "Google Photos",
+    "shortname": "google-photos",
+    "url": "https://photos.google.com/",
+    "files": "google-photos.svg"
+  },
+  {
+    "title": "Google Play",
+    "shortname": "google-play",
+    "url": "https://play.google.com/",
+    "files": "google-play.svg",
+    "landscape": true
+  },
+  {
+    "title": "Google Play",
+    "shortname": "google-play",
+    "url": "https://play.google.com/",
+    "files": "google-play-icon.svg"
+  },
+  {
+    "title": "Google Tag Manager",
+    "shortname": "google-tag-manager",
+    "url": "https://marketingplatform.google.com/about/tag-manager/",
+    "files": "google-tag-manager.svg"
+  },
+  {
+    "title": "Google Wallet",
+    "shortname": "google-wallet",
+    "url": "https://pay.google.com/about/",
+    "files": "google-wallet.svg"
+  },
+  {
+    "title": "Gordon",
+    "shortname": "gordon",
+    "url": "https://github.com/jorgebastida/gordon",
+    "files": "gordon.svg"
+  },
+  {
+    "title": "Gradle",
+    "shortname": "gradle",
+    "url": "https://gradle.org/",
+    "files": "gradle.svg"
+  },
+  {
+    "title": "Grafana",
+    "shortname": "grafana",
+    "url": "https://grafana.com/",
+    "files": "grafana.svg"
+  },
+  {
+    "title": "Grails",
+    "shortname": "grails",
+    "url": "https://grails.org/",
+    "files": "grails.svg"
+  },
+  {
+    "title": "Grape",
+    "shortname": "grape",
+    "url": "http://intridea.github.io/grape/",
+    "files": "grape.svg"
+  },
+  {
+    "title": "Graphcool",
+    "shortname": "graphcool",
+    "url": "https://www.graph.cool/",
+    "files": "graphcool.svg"
+  },
+  {
+    "title": "Graphene",
+    "shortname": "graphene",
+    "url": "http://graphene-python.org/",
+    "files": "graphene.svg"
+  },
+  {
+    "title": "GraphQL",
+    "shortname": "graphql",
+    "url": "http://graphql.org/",
+    "files": "graphql.svg"
+  },
+  {
+    "title": "Gratipay",
+    "shortname": "gratipay",
+    "url": "https://gratipay.com/",
+    "files": "gratipay.svg"
+  },
+  {
+    "title": "Grav",
+    "shortname": "grav",
+    "url": "https://getgrav.org/",
+    "files": "grav.svg"
+  },
+  {
+    "title": "Gravatar",
+    "shortname": "gravatar",
+    "url": "https://gravatar.com/",
+    "files": "gravatar.svg"
+  },
+  {
+    "title": "Graylog",
+    "shortname": "graylog",
+    "url": "https://www.graylog.org/",
+    "files": "graylog.svg"
+  },
+  {
+    "title": "Gridsome",
+    "shortname": "gridsome",
+    "url": "https://gridsome.org/",
+    "files": "gridsome.svg",
+    "landscape": true
+  },
+  {
+    "title": "Groove",
+    "shortname": "groovehq",
+    "url": "https://www.groovehq.com/",
+    "files": "groovehq.svg"
+  },
+  {
+    "title": "Grove",
+    "shortname": "grove",
+    "url": "https://grove.io/",
+    "files": "grove.svg"
+  },
+  {
+    "title": "Grunt",
+    "shortname": "grunt",
+    "url": "http://gruntjs.com/",
+    "files": "grunt.svg"
+  },
+  {
+    "title": "Gulp",
+    "shortname": "gulp",
+    "url": "http://gulpjs.com/",
+    "files": "gulp.svg"
+  },
+  {
+    "title": "Gunicorn",
+    "shortname": "gunicorn",
+    "url": "http://gunicorn.org/",
+    "files": "gunicorn.svg"
+  },
+  {
+    "title": "Gusto",
+    "shortname": "gusto",
+    "url": "https://gusto.com/",
+    "files": "gusto.svg"
+  },
+  {
+    "title": "GWT",
+    "shortname": "gwt",
+    "url": "http://www.gwtproject.org/",
+    "files": "gwt.svg"
+  },
+  {
+    "title": "hack",
+    "shortname": "hack",
+    "url": "http://hacklang.org/",
+    "files": "hack.svg"
+  },
+  {
+    "title": "HackerOne",
+    "shortname": "hacker-one",
+    "url": "https://hackerone.com/",
+    "files": "hacker-one.svg"
+  },
+  {
+    "title": "Hadoop",
+    "shortname": "hadoop",
+    "url": "http://hadoop.apache.org/",
+    "files": "hadoop.svg"
+  },
+  {
+    "title": "Haiku",
+    "shortname": "haiku",
+    "url": "https://www.haiku.ai/",
+    "files": "haiku.svg"
+  },
+  {
+    "title": "Haml",
+    "shortname": "haml",
+    "url": "http://haml.info/",
+    "files": "haml.svg"
+  },
+  {
+    "title": "Handlebars",
+    "shortname": "handlebars",
+    "url": "http://handlebarsjs.com/",
+    "files": "handlebars.svg"
+  },
+  {
+    "title": "hapi",
+    "shortname": "hapi",
+    "url": "http://hapijs.com/",
+    "files": "hapi.svg"
+  },
+  {
+    "title": "Harrow",
+    "shortname": "harrow",
+    "url": "https://www.harrow.io/",
+    "files": "harrow.svg"
+  },
+  {
+    "title": "Hashnode",
+    "shortname": "hashnode",
+    "url": "https://hashnode.com/",
+    "files": "hashnode.svg"
+  },
+  {
+    "title": "Haskell",
+    "shortname": "haskell",
+    "url": "https://www.haskell.org/",
+    "files": "haskell.svg"
+  },
+  {
+    "title": "Hasura",
+    "shortname": "hasura",
+    "url": "https://hasura.io/",
+    "files": "hasura.svg"
+  },
+  {
+    "title": "Haxe",
+    "shortname": "haxe",
+    "url": "http://haxe.org/",
+    "files": "haxe.svg"
+  },
+  {
+    "title": "Haxl",
+    "shortname": "haxl",
+    "url": "https://github.com/facebook/Haxl",
+    "files": "haxl.svg"
+  },
+  {
+    "title": "HBase",
+    "shortname": "hbase",
+    "url": "http://hbase.apache.org/",
+    "files": "hbase.svg"
+  },
+  {
+    "title": "Heap",
+    "shortname": "heap",
+    "url": "https://heapanalytics.com/",
+    "files": "heap.svg"
+  },
+  {
+    "title": "Help Scout",
+    "shortname": "helpscout",
+    "url": "https://www.helpscout.net/",
+    "files": "helpscout.svg"
+  },
+  {
+    "title": "Heroku",
+    "shortname": "heroku",
+    "url": "https://www.heroku.com/",
+    "files": "heroku.svg"
+  },
+  {
+    "title": "Heroku Redis",
+    "shortname": "heroku-redis",
+    "url": "https://www.heroku.com/redis",
+    "files": "heroku-redis.svg"
+  },
+  {
+    "title": "Heron",
+    "shortname": "heron",
+    "url": "http://twitter.github.io/heron/",
+    "files": "heron.svg"
+  },
+  {
+    "title": "Hexo",
+    "shortname": "hexo",
+    "url": "https://hexo.io/",
+    "files": "hexo.svg"
+  },
+  {
+    "title": "HHVM",
+    "shortname": "hhvm",
+    "url": "http://hhvm.com/",
+    "files": "hhvm.svg"
+  },
+  {
+    "title": "Hibernate",
+    "shortname": "hibernate",
+    "url": "http://hibernate.org/",
+    "files": "hibernate.svg"
+  },
+  {
+    "title": "Highcharts",
+    "shortname": "highcharts",
+    "url": "http://www.highcharts.com/",
+    "files": "highcharts.svg"
+  },
+  {
+    "title": "HipChat",
+    "shortname": "hipchat",
+    "url": "https://www.hipchat.com/",
+    "files": "hipchat.svg"
+  },
+  {
+    "title": "Hipercard",
+    "shortname": "hipercard",
+    "url": "https://www.hipercard.com.br/",
+    "files": "hipercard.svg"
+  },
+  {
+    "title": "Hoa",
+    "shortname": "hoa",
+    "url": "http://hoa-project.net/",
+    "files": "hoa.svg"
+  },
+  {
+    "title": "Hoodie",
+    "shortname": "hoodie",
+    "url": "http://hood.ie/",
+    "files": "hoodie.svg",
+    "landscape": true
+  },
+  {
+    "title": "Horizon",
+    "shortname": "horizon",
+    "url": "https://horizon.io/",
+    "files": "horizon.svg"
+  },
+  {
+    "title": "Hosted Graphite",
+    "shortname": "hosted-graphite",
+    "url": "https://www.hostedgraphite.com/",
+    "files": "hosted-graphite.svg"
+  },
+  {
+    "title": "HostGator",
+    "shortname": "hostgator",
+    "url": "https://www.hostgator.com/",
+    "files": "hostgator.svg"
+  },
+  {
+    "title": "Hound",
+    "shortname": "houndci",
+    "url": "https://houndci.com/",
+    "files": "houndci.svg"
+  },
+  {
+    "title": "HTML5",
+    "shortname": "html-5",
+    "url": "http://www.w3.org/TR/html5/",
+    "files": "html-5.svg"
+  },
+  {
+    "title": "HTML5 Boilerplate",
+    "shortname": "html5-boilerplate",
+    "url": "https://html5boilerplate.com/",
+    "files": "html5-boilerplate.svg"
+  },
+  {
+    "title": "Hubspot",
+    "shortname": "hubspot",
+    "url": "http://www.hubspot.com/",
+    "files": "hubspot.svg",
+    "landscape": true
+  },
+  {
+    "title": "Hugo",
+    "shortname": "hugo",
+    "url": "https://gohugo.io/",
+    "files": "hugo.svg",
+    "landscape": true
+  },
+  {
+    "title": "Humongous",
+    "shortname": "humongous",
+    "url": "https://humongous.io/",
+    "files": "humongous.svg"
+  },
+  {
+    "title": "Hyper",
+    "shortname": "hyper",
+    "url": "https://hyper.is/",
+    "files": "hyper.svg"
+  },
+  {
+    "title": "Hyperapp",
+    "shortname": "hyperapp",
+    "url": "https://hyperapp.js.org/",
+    "files": "hyperapp.svg"
+  },
+  {
+    "title": "IBM",
+    "shortname": "ibm",
+    "url": "https://www.ibm.com/",
+    "files": "ibm.svg"
+  },
+  {
+    "title": "IEEE",
+    "shortname": "ieee",
+    "url": "https://www.ieee.org/",
+    "files": "ieee.svg",
+    "landscape": true
+  },
+  {
+    "title": "IFTTT",
+    "shortname": "ifttt",
+    "url": "https://ifttt.com/",
+    "files": "ifttt.svg",
+    "landscape": true
+  },
+  {
+    "title": "imagemin",
+    "shortname": "imagemin",
+    "url": "https://github.com/imagemin/imagemin",
+    "files": "imagemin.svg"
+  },
+  {
+    "title": "Immutable",
+    "shortname": "immutable",
+    "url": "https://facebook.github.io/immutable-js/",
+    "files": "immutable.svg",
+    "landscape": true
+  },
+  {
+    "title": "Impala",
+    "shortname": "impala",
+    "url": "http://impala.io/",
+    "files": "impala.svg"
+  },
+  {
+    "title": "import.io",
+    "shortname": "importio",
+    "url": "https://import.io/",
+    "files": "importio.svg",
+    "landscape": true
+  },
+  {
+    "title": "Infer",
+    "shortname": "infer",
+    "url": "http://fbinfer.com/",
+    "files": "infer.svg"
+  },
+  {
+    "title": "Inferno",
+    "shortname": "inferno",
+    "url": "https://github.com/trueadm/inferno",
+    "files": "inferno.svg"
+  },
+  {
+    "title": "InfluxDB",
+    "shortname": "influxdb",
+    "url": "https://influxdb.com/",
+    "files": "influxdb.svg"
+  },
+  {
+    "title": "Ink",
+    "shortname": "ink",
+    "url": "http://ink.sapo.pt/",
+    "files": "ink.svg"
+  },
+  {
+    "title": "Instagram",
+    "shortname": "instagram",
+    "url": "https://instagram.com/",
+    "files": "instagram.svg",
+    "landscape": true
+  },
+  {
+    "title": "Instagram",
+    "shortname": "instagram",
+    "url": "https://instagram.com/",
+    "files": "instagram-icon.svg"
+  },
+  {
+    "title": "IntelliJ IDEA",
+    "shortname": "intellij-idea",
+    "url": "https://www.jetbrains.com/idea/",
+    "files": "intellij-idea.svg"
+  },
+  {
+    "title": "Intercom",
+    "shortname": "intercom",
+    "url": "https://www.intercom.io/",
+    "files": "intercom.svg",
+    "landscape": true
+  },
+  {
+    "title": "Internet Explorer",
+    "shortname": "internetexplorer",
+    "url": "http://windows.microsoft.com/en-us/internet-explorer/",
+    "files": "internetexplorer.svg"
+  },
+  {
+    "title": "Invision",
+    "shortname": "invision",
+    "url": "http://www.invisionapp.com/",
+    "files": "invision.svg"
+  },
+  {
+    "title": "io.js",
+    "shortname": "io",
+    "url": "https://iojs.org/",
+    "files": "io.svg"
+  },
+  {
+    "title": "Ionic",
+    "shortname": "ionic",
+    "url": "http://ionicframework.com/",
+    "files": "ionic.svg"
+  },
+  {
+    "title": "iOS",
+    "shortname": "ios",
+    "url": "https://www.apple.com/ios/",
+    "files": "ios.svg"
+  },
+  {
+    "title": "Iron.io",
+    "shortname": "iron",
+    "url": "https://www.iron.io/",
+    "files": "iron.svg",
+    "landscape": true
+  },
+  {
+    "title": "It's Alive",
+    "shortname": "itsalive",
+    "url": "https://itsalive.io/",
+    "files": "itsalive.svg",
+    "landscape": true
+  },
+  {
+    "title": "Jade",
+    "shortname": "jade",
+    "url": "http://jade-lang.com/",
+    "files": "jade.svg"
+  },
+  {
+    "title": "Jamstack",
+    "shortname": "jamstack",
+    "url": "https://jamstack.org/",
+    "files": "jamstack.svg",
+    "landscape": true
+  },
+  {
+    "title": "Jasmine",
+    "shortname": "jasmine",
+    "url": "http://jasmine.github.io/",
+    "files": "jasmine.svg"
+  },
+  {
+    "title": "Java",
+    "shortname": "java",
+    "url": "https://www.java.com/",
+    "files": "java.svg"
+  },
+  {
+    "title": "Javascript (JS)",
+    "shortname": "javascript",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "files": "javascript.svg"
+  },
+  {
+    "title": "JCB",
+    "shortname": "jcb",
+    "url": "https://www.jcbusa.com/",
+    "files": "jcb.svg"
+  },
+  {
+    "title": "Jekyll",
+    "shortname": "jekyll",
+    "url": "http://jekyllrb.com/",
+    "files": "jekyll.svg"
+  },
+  {
+    "title": "Jelastic",
+    "shortname": "jelastic",
+    "url": "http://jelastic.com/",
+    "files": "jelastic.svg"
+  },
+  {
+    "title": "Jenkins",
+    "shortname": "jenkins",
+    "url": "https://jenkins-ci.org/",
+    "files": "jenkins.svg"
+  },
+  {
+    "title": "Jest",
+    "shortname": "jest",
+    "url": "http://facebook.github.io/jest/",
+    "files": "jest.svg"
+  },
+  {
+    "title": "JetBrains",
+    "shortname": "jetbrains",
+    "url": "https://www.jetbrains.com/",
+    "files": "jetbrains.svg"
+  },
+  {
+    "title": "Jhipster",
+    "shortname": "jhipster",
+    "url": "https://jhipster.github.io/",
+    "files": "jhipster.svg"
+  },
+  {
+    "title": "JIRA",
+    "shortname": "jira",
+    "url": "https://www.atlassian.com/software/jira",
+    "files": "jira.svg"
+  },
+  {
+    "title": "Joomla",
+    "shortname": "joomla",
+    "url": "http://www.joomla.org/",
+    "files": "joomla.svg"
+  },
+  {
+    "title": "jQuery",
+    "shortname": "jquery",
+    "url": "https://jquery.com/",
+    "files": "jquery.svg",
+    "landscape": true
+  },
+  {
+    "title": "jQuery Mobile",
+    "shortname": "jquery-mobile",
+    "url": "http://jquerymobile.com/",
+    "files": "jquery-mobile.svg"
+  },
+  {
+    "title": "JRuby",
+    "shortname": "jruby",
+    "url": "http://jruby.org/",
+    "files": "jruby.svg"
+  },
+  {
+    "title": "jsbin",
+    "shortname": "jsbin",
+    "url": "https://jsbin.com/",
+    "files": "jsbin.svg"
+  },
+  {
+    "title": "JSCS",
+    "shortname": "jscs",
+    "url": "http://jscs.info/",
+    "files": "jscs.svg"
+  },
+  {
+    "title": "jsDelivr",
+    "shortname": "jsdelivr",
+    "url": "http://www.jsdelivr.com/",
+    "files": "jsdelivr.svg"
+  },
+  {
+    "title": "jsdom",
+    "shortname": "jsdom",
+    "url": "https://github.com/jsdom/jsdom",
+    "files": "jsdom.svg"
+  },
+  {
+    "title": "JSFiddle",
+    "shortname": "jsfiddle",
+    "url": "https://jsfiddle.net/",
+    "files": "jsfiddle.svg"
+  },
+  {
+    "title": "JSON",
+    "shortname": "json",
+    "url": "http://json.org/",
+    "files": "json.svg"
+  },
+  {
+    "title": "JSPM",
+    "shortname": "jspm",
+    "url": "http://jspm.io/",
+    "files": "jspm.svg"
+  },
+  {
+    "title": "Juju",
+    "shortname": "juju",
+    "url": "http://juju.ubuntu.com/",
+    "files": "juju.svg"
+  },
+  {
+    "title": "Julia",
+    "shortname": "julia",
+    "url": "https://julialang.org/",
+    "files": "julia.svg"
+  },
+  {
+    "title": "Jupyter",
+    "shortname": "jupyter",
+    "url": "https://jupyter.org",
+    "files": "jupyter.svg"
+  },
+  {
+    "title": "Kafka",
+    "shortname": "kafka",
+    "url": "http://kafka.apache.org/",
+    "files": "kafka.svg",
+    "landscape": true
+  },
+  {
+    "title": "Kafka",
+    "shortname": "kafka",
+    "url": "http://kafka.apache.org/",
+    "files": "kafka-icon.svg"
+  },
+  {
+    "title": "KaiOS",
+    "shortname": "kaios",
+    "url": "https://www.kaiostech.com/",
+    "files": "kaios.svg",
+    "landscape": true
+  },
+  {
+    "title": "Kallithea",
+    "shortname": "kallithea",
+    "url": "https://kallithea-scm.org/",
+    "files": "kallithea.svg"
+  },
+  {
+    "title": "Karma",
+    "shortname": "karma",
+    "url": "http://karma-runner.github.io/",
+    "files": "karma.svg"
+  },
+  {
+    "title": "Keen IO",
+    "shortname": "keen",
+    "url": "http://keen.io/",
+    "files": "keen.svg",
+    "landscape": true
+  },
+  {
+    "title": "Kemal",
+    "shortname": "kemal",
+    "url": "http://kemalcr.com/",
+    "files": "kemal.svg"
+  },
+  {
+    "title": "KeyCDN",
+    "shortname": "keycdn",
+    "url": "https://www.keycdn.com/",
+    "files": "keycdn.svg"
+  },
+  {
+    "title": "Keymetrics",
+    "shortname": "keymetrics",
+    "url": "https://keymetrics.io/",
+    "files": "keymetrics.svg"
+  },
+  {
+    "title": "KeystoneJS",
+    "shortname": "keystonejs",
+    "url": "http://keystonejs.com/",
+    "files": "keystonejs.svg"
+  },
+  {
+    "title": "Khan Academy",
+    "shortname": "khan_academy",
+    "url": "https://www.khanacademy.org/",
+    "files": "khan_academy.svg"
+  },
+  {
+    "title": "Kibana",
+    "shortname": "kibana",
+    "url": "https://www.elastic.co/products/kibana",
+    "files": "kibana.svg"
+  },
+  {
+    "title": "Kickstarter",
+    "shortname": "kickstarter",
+    "url": "https://www.kickstarter.com/",
+    "files": "kickstarter.svg"
+  },
+  {
+    "title": "Kinto",
+    "shortname": "kinto",
+    "url": "http://www.kinto-storage.org/",
+    "files": "kinto.svg"
+  },
+  {
+    "title": "Kinvey",
+    "shortname": "kinvey",
+    "url": "http://www.kinvey.com/",
+    "files": "kinvey.svg"
+  },
+  {
+    "title": "kirby",
+    "shortname": "kirby",
+    "url": "http://getkirby.com/",
+    "files": "kirby.svg"
+  },
+  {
+    "title": "kissmetrics",
+    "shortname": "kissmetrics",
+    "url": "https://kissmetrics.com/",
+    "files": "kissmetrics.svg"
+  },
+  {
+    "title": "Kitematic",
+    "shortname": "kitematic",
+    "url": "https://kitematic.com/",
+    "files": "kitematic.svg"
+  },
+  {
+    "title": "Kloudless",
+    "shortname": "kloudless",
+    "url": "https://developers.kloudless.com/",
+    "files": "kloudless.svg"
+  },
+  {
+    "title": "Knex.js",
+    "shortname": "knex",
+    "url": "http://knexjs.org/",
+    "files": "knex.svg"
+  },
+  {
+    "title": "Knockout",
+    "shortname": "knockout",
+    "url": "http://knockoutjs.com/",
+    "files": "knockout.svg",
+    "landscape": true
+  },
+  {
+    "title": "Kong",
+    "shortname": "kong",
+    "url": "http://netflix.github.io/falcor/",
+    "files": "kong.svg"
+  },
+  {
+    "title": "Kontena",
+    "shortname": "kontena",
+    "url": "http://www.kontena.io/",
+    "files": "kontena.svg"
+  },
+  {
+    "title": "kops",
+    "shortname": "kops",
+    "url": "https://github.com/kubernetes/kops",
+    "files": "kops.svg",
+    "landscape": true
+  },
+  {
+    "title": "Kore",
+    "shortname": "koreio",
+    "url": "https://kore.io/",
+    "files": "koreio.svg"
+  },
+  {
+    "title": "kore",
+    "shortname": "kore",
+    "url": "https://www.kore.com/",
+    "files": "kore.svg"
+  },
+  {
+    "title": "Kotlin",
+    "shortname": "kotlin",
+    "url": "http://kotlinlang.org/",
+    "files": "kotlin.svg"
+  },
+  {
+    "title": "Kraken",
+    "shortname": "kraken",
+    "url": "https://kraken.io/",
+    "files": "kraken.svg"
+  },
+  {
+    "title": "Krakenjs",
+    "shortname": "krakenjs",
+    "url": "http://krakenjs.com/",
+    "files": "krakenjs.svg"
+  },
+  {
+    "title": "Kubernetes",
+    "shortname": "kubernetes",
+    "url": "http://kubernetes.io/",
+    "files": "kubernetes.svg"
+  },
+  {
+    "title": "Kustomer",
+    "shortname": "kustomer",
+    "url": "https://www.kustomer.com/",
+    "files": "kustomer.svg",
+    "landscape": true
+  },
+  {
+    "title": "Laravel",
+    "shortname": "laravel",
+    "url": "http://laravel.com/",
+    "files": "laravel.svg"
+  },
+  {
+    "title": "last.fm",
+    "shortname": "lastfm",
+    "url": "http://www.last.fm/",
+    "files": "lastfm.svg",
+    "landscape": true
+  },
+  {
+    "title": "Lateral",
+    "shortname": "lateral",
+    "url": "https://lateral.io/",
+    "files": "lateral.svg"
+  },
+  {
+    "title": "LaunchKit",
+    "shortname": "launchkit",
+    "url": "https://launchkit.io/",
+    "files": "launchkit.svg"
+  },
+  {
+    "title": "Launchrock",
+    "shortname": "launchrock",
+    "url": "https://www.launchrock.com/",
+    "files": "launchrock.svg"
+  },
+  {
+    "title": "Leafjet",
+    "shortname": "leafjet",
+    "url": "http://leafletjs.com/",
+    "files": "leafjet.svg",
+    "landscape": true
+  },
+  {
+    "title": "Leankit",
+    "shortname": "leankit",
+    "url": "http://leankit.com/",
+    "files": "leankit.svg"
+  },
+  {
+    "title": "Less",
+    "shortname": "less",
+    "url": "http://lesscss.org/",
+    "files": "less.svg"
+  },
+  {
+    "title": "Let's Encrypt",
+    "shortname": "letsencrypt",
+    "url": "https://letsencrypt.org/",
+    "files": "letsencrypt.svg"
+  },
+  {
+    "title": "LevelDB",
+    "shortname": "leveldb",
+    "url": "http://leveldb.org/",
+    "files": "leveldb.svg"
+  },
+  {
+    "title": "Librato",
+    "shortname": "librato",
+    "url": "https://www.librato.com/",
+    "files": "librato.svg"
+  },
+  {
+    "title": "Lift",
+    "shortname": "liftweb",
+    "url": "http://liftweb.net/",
+    "files": "liftweb.svg"
+  },
+  {
+    "title": "lighttpd",
+    "shortname": "lighttpd",
+    "url": "http://www.lighttpd.net/",
+    "files": "lighttpd.svg"
+  },
+  {
+    "title": "LinkedIn",
+    "shortname": "linkedin",
+    "url": "https://www.linkedin.com/",
+    "files": "linkedin.svg",
+    "landscape": true
+  },
+  {
+    "title": "linkerd",
+    "shortname": "linkerd",
+    "url": "https://linkerd.io/",
+    "files": "linkerd.svg"
+  },
+  {
+    "title": "Linode",
+    "shortname": "linode",
+    "url": "https://www.linode.com/",
+    "files": "linode.svg"
+  },
+  {
+    "title": "Linux Mint",
+    "shortname": "linux-mint",
+    "url": "http://www.linuxmint.com/",
+    "files": "linux-mint.svg"
+  },
+  {
+    "title": "Linux Tux",
+    "shortname": "linux-tux",
+    "url": "https://en.wikipedia.org/wiki/Tux",
+    "files": "linux-tux.svg"
+  },
+  {
+    "title": "Litmus",
+    "shortname": "litmus",
+    "url": "http://litmus.com/",
+    "files": "litmus.svg"
+  },
+  {
+    "title": "loader",
+    "shortname": "loader",
+    "url": "https://loader.io/",
+    "files": "loader.svg"
+  },
+  {
+    "title": "Locent",
+    "shortname": "locent",
+    "url": "https://locent.com/",
+    "files": "locent.svg"
+  },
+  {
+    "title": "Lodash",
+    "shortname": "lodash",
+    "url": "https://lodash.com/",
+    "files": "lodash.svg"
+  },
+  {
+    "title": "logentries",
+    "shortname": "logentries",
+    "url": "https://logentries.com/",
+    "files": "logentries.svg"
+  },
+  {
+    "title": "loggly",
+    "shortname": "loggly",
+    "url": "http://loggly.com/",
+    "files": "loggly.svg",
+    "landscape": true
+  },
+  {
+    "title": "Logmatic",
+    "shortname": "logmatic",
+    "url": "http://logmatic.io/",
+    "files": "logmatic.svg",
+    "landscape": true
+  },
+  {
+    "title": "Lookback",
+    "shortname": "lookback",
+    "url": "https://lookback.io/",
+    "files": "lookback.svg"
+  },
+  {
+    "title": "Looker",
+    "shortname": "looker",
+    "url": "http://www.looker.com/",
+    "files": "looker.svg",
+    "landscape": true
+  },
+  {
+    "title": "Loopback",
+    "shortname": "loopback",
+    "url": "http://loopback.io/",
+    "files": "loopback.svg"
+  },
+  {
+    "title": "Losant",
+    "shortname": "losant",
+    "url": "https://www.losant.com/",
+    "files": "losant.svg"
+  },
+  {
+    "title": "Lotus",
+    "shortname": "lotus",
+    "url": "http://lotusrb.org/",
+    "files": "lotus.svg"
+  },
+  {
+    "title": "Lua",
+    "shortname": "lua",
+    "url": "http://www.lua.org/",
+    "files": "lua.svg"
+  },
+  {
+    "title": "Lucene",
+    "shortname": "lucene",
+    "url": "http://lucene.apache.org/",
+    "files": "lucene.svg",
+    "landscape": true
+  },
+  {
+    "title": "Lucene.net",
+    "shortname": "lucene_net",
+    "url": "https://lucenenet.apache.org/",
+    "files": "lucene.net.svg"
+  },
+  {
+    "title": "Lumen",
+    "shortname": "lumen",
+    "url": "http://lumen.laravel.com/",
+    "files": "lumen.svg"
+  },
+  {
+    "title": "lynda.com",
+    "shortname": "lynda",
+    "url": "http://www.lynda.com/",
+    "files": "lynda.svg"
+  },
+  {
+    "title": "Mac OS X",
+    "shortname": "macosx",
+    "url": "http://www.apple.com/osx/",
+    "files": "macosx.svg"
+  },
+  {
+    "title": "Maestro",
+    "shortname": "maestro",
+    "url": "http://www.maestrocard.com/",
+    "files": "maestro.svg"
+  },
+  {
+    "title": "mageia",
+    "shortname": "mageia",
+    "url": "https://www.mageia.org/",
+    "files": "mageia.svg",
+    "landscape": true
+  },
+  {
+    "title": "Magento",
+    "shortname": "magento",
+    "url": "http://magento.com/",
+    "files": "magento.svg"
+  },
+  {
+    "title": "Magneto",
+    "shortname": "magneto",
+    "url": "http://getmagneto.com/",
+    "files": "magneto.svg"
+  },
+  {
+    "title": "Mailchimp",
+    "shortname": "mailchimp",
+    "url": "http://mailchimp.com/",
+    "files": "mailchimp.svg",
+    "landscape": true
+  },
+  {
+    "title": "Mailchimp",
+    "shortname": "mailchimp",
+    "url": "http://mailchimp.com/",
+    "files": "mailchimp-freddie.svg"
+  },
+  {
+    "title": "MailDeveloper",
+    "shortname": "maildeveloper",
+    "url": "https://maildeveloper.com/",
+    "files": "maildeveloper.svg"
+  },
+  {
+    "title": "Mailgun",
+    "shortname": "mailgun",
+    "url": "http://www.mailgun.com/",
+    "files": "mailgun.svg"
+  },
+  {
+    "title": "Mandrill",
+    "shortname": "mandrill",
+    "url": "http://mandrill.com/",
+    "files": "mandrill.svg"
+  },
+  {
+    "title": "Mandrill",
+    "shortname": "mandrill",
+    "url": "http://mandrill.com/",
+    "files": "mandrill-shield.svg"
+  },
+  {
+    "title": "manifoldJS",
+    "shortname": "manifoldjs",
+    "url": "http://www.manifoldjs.com/",
+    "files": "manifoldjs.svg"
+  },
+  {
+    "title": "Mantl",
+    "shortname": "mantl",
+    "url": "https://mantl.io/",
+    "files": "mantl.svg"
+  },
+  {
+    "title": "Manuscript",
+    "shortname": "manuscript",
+    "url": "https://manuscript.com",
+    "files": "manuscript.svg"
+  },
+  {
+    "title": "Mapbox",
+    "shortname": "mapbox",
+    "url": "https://www.mapbox.com/",
+    "files": "mapbox.svg"
+  },
+  {
+    "title": "MAPS.ME",
+    "shortname": "maps-me",
+    "url": "http://maps.me/",
+    "files": "maps-me.svg"
+  },
+  {
+    "title": "Mapzen",
+    "shortname": "mapzen",
+    "url": "https://mapzen.com/",
+    "files": "mapzen.svg"
+  },
+  {
+    "title": "MariaDB",
+    "shortname": "mariadb",
+    "url": "https://mariadb.org/",
+    "files": "mariadb.svg"
+  },
+  {
+    "title": "Marionette.js",
+    "shortname": "marionette",
+    "url": "http://marionettejs.com/",
+    "files": "marionette.svg"
+  },
+  {
+    "title": "Markdown",
+    "shortname": "markdown",
+    "url": "http://daringfireball.net/projects/markdown/",
+    "files": "markdown.svg"
+  },
+  {
+    "title": "Marko",
+    "shortname": "marko",
+    "url": "http://markojs.com/",
+    "files": "marko.svg"
+  },
+  {
+    "title": "Marvel",
+    "shortname": "marvel",
+    "url": "https://marvelapp.com/",
+    "files": "marvel.svg"
+  },
+  {
+    "title": "Mastercard",
+    "shortname": "mastercard",
+    "url": "http://www.mastercard.com/",
+    "files": "mastercard.svg"
+  },
+  {
+    "title": "Material UI",
+    "shortname": "material-ui",
+    "url": "http://material-ui.com/",
+    "files": "material-ui.svg"
+  },
+  {
+    "title": "Materialize",
+    "shortname": "materializecss",
+    "url": "http://materializecss.com/",
+    "files": "materializecss.svg"
+  },
+  {
+    "title": "Mattermost",
+    "shortname": "mattermost",
+    "url": "http://www.mattermost.org/",
+    "files": "mattermost.svg"
+  },
+  {
+    "title": "MaxCDN",
+    "shortname": "maxcdn",
+    "url": "https://www.maxcdn.com/",
+    "files": "maxcdn.svg",
+    "landscape": true
+  },
+  {
+    "title": "MDN",
+    "shortname": "mdn",
+    "url": "https://developer.mozilla.org/",
+    "files": "mdn.svg"
+  },
+  {
+    "title": "Mean",
+    "shortname": "meanio",
+    "url": "http://mean.io/",
+    "files": "meanio.svg"
+  },
+  {
+    "title": "Medium",
+    "shortname": "medium",
+    "url": "https://medium.com/",
+    "files": "medium.svg"
+  },
+  {
+    "title": "Memcached",
+    "shortname": "memcached",
+    "url": "http://memcached.org/",
+    "files": "memcached.svg"
+  },
+  {
+    "title": "MemSQL",
+    "shortname": "memsql",
+    "url": "http://www.memsql.com/",
+    "files": "memsql.svg"
+  },
+  {
+    "title": "mention",
+    "shortname": "mention",
+    "url": "https://mention.com/",
+    "files": "mention.svg",
+    "landscape": true
+  },
+  {
+    "title": "Mercurial",
+    "shortname": "mercurial",
+    "url": "https://mercurial.selenic.com/",
+    "files": "mercurial.svg"
+  },
+  {
+    "title": "Mern",
+    "shortname": "mern",
+    "url": "http://mern.io/",
+    "files": "mern.svg"
+  },
+  {
+    "title": "Mesos",
+    "shortname": "mesos",
+    "url": "http://mesos.apache.org/",
+    "files": "mesos.svg"
+  },
+  {
+    "title": "Mesosphere",
+    "shortname": "mesosphere",
+    "url": "https://mesosphere.com/",
+    "files": "mesosphere.svg"
+  },
+  {
+    "title": "Message.io",
+    "shortname": "message.io",
+    "url": "http://message.io/",
+    "files": "message.io.svg",
+    "landscape": true
+  },
+  {
+    "title": "Metabase",
+    "shortname": "metabase",
+    "url": "http://www.metabase.com/",
+    "files": "metabase.svg"
+  },
+  {
+    "title": "Meteor",
+    "shortname": "meteor",
+    "url": "https://www.meteor.com/",
+    "files": "meteor.svg",
+    "landscape": true
+  },
+  {
+    "title": "Meteor",
+    "shortname": "meteor",
+    "url": "https://www.meteor.com/",
+    "files": "meteor-icon.svg"
+  },
+  {
+    "title": "Microcosm",
+    "shortname": "microcosm",
+    "url": "http://code.viget.com/microcosm/",
+    "files": "microcosm.svg"
+  },
+  {
+    "title": "Microsoft",
+    "shortname": "microsoft",
+    "url": "http://www.microsoft.com/",
+    "files": "microsoft.svg",
+    "landscape": true
+  },
+  {
+    "title": "Microsoft Azure",
+    "shortname": "azure",
+    "url": "https://azure.microsoft.com/",
+    "files": "azure.svg"
+  },
+  {
+    "title": "Microsoft Edge",
+    "shortname": "microsoft-edge",
+    "url": "https://www.microsoft.com/en-us/windows/microsoft-edge",
+    "files": "microsoft-edge.svg"
+  },
+  {
+    "title": "Middleman",
+    "shortname": "middleman",
+    "url": "https://middlemanapp.com/",
+    "files": "middleman.svg"
+  },
+  {
+    "title": "Milligram",
+    "shortname": "milligram",
+    "url": "https://milligram.io",
+    "files": "milligram.svg"
+  },
+  {
+    "title": "Mist.io",
+    "shortname": "mist",
+    "url": "https://mist.io/",
+    "files": "mist.svg"
+  },
+  {
+    "title": "Mithril",
+    "shortname": "mithril",
+    "url": "https://lhorie.github.io/mithril/",
+    "files": "mithril.svg"
+  },
+  {
+    "title": "Mixmax",
+    "shortname": "mixmax",
+    "url": "https://mixmax.com/",
+    "files": "mixmax.svg"
+  },
+  {
+    "title": "Mixpanel",
+    "shortname": "mixpanel",
+    "url": "https://mixpanel.com/",
+    "files": "mixpanel.svg"
+  },
+  {
+    "title": "MobX",
+    "shortname": "mobx",
+    "url": "https://mobxjs.github.io/mobx/",
+    "files": "mobx.svg"
+  },
+  {
+    "title": "Mocha",
+    "shortname": "mocha",
+    "url": "http://mochajs.org/",
+    "files": "mocha.svg"
+  },
+  {
+    "title": "Mockflow",
+    "shortname": "mockflow",
+    "url": "http://www.mockflow.com/",
+    "files": "mockflow.svg"
+  },
+  {
+    "title": "Modernizr",
+    "shortname": "modernizr",
+    "url": "http://modernizr.com/",
+    "files": "modernizr.svg"
+  },
+  {
+    "title": "Modulus",
+    "shortname": "modulus",
+    "url": "https://modulus.io/",
+    "files": "modulus.svg"
+  },
+  {
+    "title": "MODX",
+    "shortname": "modx",
+    "url": "http://modx.com/",
+    "files": "modx.svg"
+  },
+  {
+    "title": "Moment.js",
+    "shortname": "momentjs",
+    "url": "http://momentjs.com/",
+    "files": "momentjs.svg"
+  },
+  {
+    "title": "Monero",
+    "shortname": "monero",
+    "url": "https://getmonero.org/",
+    "files": "monero.svg"
+  },
+  {
+    "title": "MongoDB",
+    "shortname": "mongodb",
+    "url": "https://www.mongodb.org/",
+    "files": "mongodb.svg",
+    "landscape": true
+  },
+  {
+    "title": "MongoLab",
+    "shortname": "mongolab",
+    "url": "https://mongolab.com/",
+    "files": "mongolab.svg",
+    "landscape": true
+  },
+  {
+    "title": "Mono",
+    "shortname": "mono",
+    "url": "http://www.mono-project.com/",
+    "files": "mono.svg"
+  },
+  {
+    "title": "Moon",
+    "shortname": "moon",
+    "url": "https://kbrsh.github.io/moon/",
+    "files": "moon.svg"
+  },
+  {
+    "title": "MooTools",
+    "shortname": "mootools",
+    "url": "http://mootools.net/",
+    "files": "mootools.svg",
+    "landscape": true
+  },
+  {
+    "title": "Morpheus",
+    "shortname": "morpheus",
+    "url": "https://www.morpheusdata.com",
+    "files": "morpheus.svg",
+    "landscape": true
+  },
+  {
+    "title": "Mozilla",
+    "shortname": "mozilla",
+    "url": "https://www.mozilla.org/",
+    "files": "mozilla.svg",
+    "landscape": true
+  },
+  {
+    "title": "mParticle",
+    "shortname": "mparticle",
+    "url": "https://www.mparticle.com/",
+    "files": "mparticle.svg"
+  },
+  {
+    "title": "MySQL",
+    "shortname": "mysql",
+    "url": "http://dev.mysql.com/",
+    "files": "mysql.svg"
+  },
+  {
+    "title": "Myth",
+    "shortname": "myth",
+    "url": "http://www.myth.io/",
+    "files": "myth.svg"
+  },
+  {
+    "title": "Namecheap",
+    "shortname": "namecheap",
+    "url": "https://www.namecheap.com/",
+    "files": "namecheap.svg"
+  },
+  {
+    "title": "Nanonets",
+    "shortname": "nanonets",
+    "url": "https://nanonets.com/",
+    "files": "nanonets.svg"
+  },
+  {
+    "title": "NativeScript",
+    "shortname": "nativescript",
+    "url": "https://www.nativescript.org/",
+    "files": "nativescript.svg"
+  },
+  {
+    "title": "Neat",
+    "shortname": "neat",
+    "url": "http://neat.bourbon.io/",
+    "files": "neat.svg"
+  },
+  {
+    "title": "Neo4j",
+    "shortname": "neo4j",
+    "url": "http://neo4j.com/",
+    "files": "neo4j.svg"
+  },
+  {
+    "title": "Neonmetrics",
+    "shortname": "neonmetrics",
+    "url": "http://neonmetrics.com/",
+    "files": "neonmetrics.svg"
+  },
+  {
+    "title": "Neovim",
+    "shortname": "neovim",
+    "url": "http://neovim.io/",
+    "files": "neovim.svg",
+    "landscape": true
+  },
+  {
+    "title": "NestJS",
+    "shortname": "nestjs",
+    "url": "https://nestjs.com/",
+    "files": "nestjs.svg"
+  },
+  {
+    "title": "Netbeans",
+    "shortname": "netbeans",
+    "url": "https://netbeans.org/",
+    "files": "netbeans.svg"
+  },
+  {
+    "title": "Netflix",
+    "shortname": "netflix",
+    "url": "https://www.netflix.com/",
+    "files": "netflix.svg",
+    "landscape": true
+  },
+  {
+    "title": "Netflix",
+    "shortname": "netflix",
+    "url": "https://www.netflix.com/",
+    "files": "netflix-icon.svg"
+  },
+  {
+    "title": "Netlify",
+    "shortname": "netlify",
+    "url": "https://www.netlify.com/",
+    "files": "netlify.svg"
+  },
+  {
+    "title": "Netuitive",
+    "shortname": "netuitive",
+    "url": "http://www.netuitive.com/",
+    "files": "netuitive.svg"
+  },
+  {
+    "title": "New Relic",
+    "shortname": "new-relic",
+    "url": "http://newrelic.com/",
+    "files": "new-relic.svg"
+  },
+  {
+    "title": "Next.js",
+    "shortname": "nextjs",
+    "url": "https://zeit.co/next",
+    "files": "nextjs.svg"
+  },
+  {
+    "title": "NGINX",
+    "shortname": "nginx",
+    "url": "https://www.nginx.com/",
+    "files": "nginx.svg",
+    "landscape": true
+  },
+  {
+    "title": "Nightwatch.js",
+    "shortname": "nightwatch",
+    "url": "http://nightwatchjs.org/",
+    "files": "nightwatch.svg"
+  },
+  {
+    "title": "Nodal",
+    "shortname": "nodal",
+    "url": "http://www.nodaljs.com/",
+    "files": "nodal.svg"
+  },
+  {
+    "title": "Node OS",
+    "shortname": "nodeos",
+    "url": "http://node-os.com/",
+    "files": "nodeos.svg"
+  },
+  {
+    "title": "Node-Sass",
+    "shortname": "node-sass",
+    "url": "https://github.com/sass/node-sass",
+    "files": "node-sass.svg"
+  },
+  {
+    "title": "Node.js",
+    "shortname": "nodejs",
+    "url": "https://nodejs.org/",
+    "files": "nodejs-icon.svg"
+  },
+  {
+    "title": "Node.js",
+    "shortname": "nodejs",
+    "url": "https://nodejs.org/",
+    "files": "nodejs.svg"
+  },
+  {
+    "title": "NodeBots",
+    "shortname": "nodebots",
+    "url": "http://nodebots.io/",
+    "files": "nodebots.svg"
+  },
+  {
+    "title": "Nodejitsu",
+    "shortname": "nodejitsu",
+    "url": "https://www.nodejitsu.com/",
+    "files": "nodejitsu.svg"
+  },
+  {
+    "title": "nodemon",
+    "shortname": "nodemon",
+    "url": "http://nodemon.io/",
+    "files": "nodemon.svg"
+  },
+  {
+    "title": "Nomad",
+    "shortname": "nomad",
+    "url": "https://www.nomadproject.io/",
+    "files": "nomad.svg"
+  },
+  {
+    "title": "Noysi",
+    "shortname": "noysi",
+    "url": "https://noysi.com/",
+    "files": "noysi.svg"
+  },
+  {
+    "title": "NPM",
+    "shortname": "npm",
+    "url": "https://www.npmjs.com/",
+    "files": "npm-2.svg"
+  },
+  {
+    "title": "NPM",
+    "shortname": "npm",
+    "url": "https://www.npmjs.com/",
+    "files": "npm.svg"
+  },
+  {
+    "title": "Nuclide",
+    "shortname": "nuclide",
+    "url": "http://nuclide.io/",
+    "files": "nuclide.svg"
+  },
+  {
+    "title": "NuoDB",
+    "shortname": "nuodb",
+    "url": "http://www.kinto-storage.org/",
+    "files": "nuodb.svg"
+  },
+  {
+    "title": "Nuxt",
+    "shortname": "nuxt",
+    "url": "https://nuxtjs.org/",
+    "files": "nuxt.svg"
+  },
+  {
+    "title": "NW.js a.k.a. Nodewebkit",
+    "shortname": "nwjs",
+    "url": "http://nwjs.io/",
+    "files": "nodewebkit.svg"
+  },
+  {
+    "title": "O'Reilly",
+    "shortname": "oreilly",
+    "url": "http://www.oreilly.com/",
+    "files": "oreilly.svg",
+    "landscape": true
+  },
+  {
+    "title": "OAuth",
+    "shortname": "oauth",
+    "url": "http://oauth.net/",
+    "files": "oauth.svg"
+  },
+  {
+    "title": "OCaml",
+    "shortname": "ocaml",
+    "url": "https://ocaml.org/",
+    "files": "ocaml.svg",
+    "landscape": true
+  },
+  {
+    "title": "octoDNS",
+    "shortname": "octodns",
+    "url": "https://github.com/github/octodns/",
+    "files": "octodns.svg"
+  },
+  {
+    "title": "olapic",
+    "shortname": "olapic",
+    "url": "http://www.olapic.com/",
+    "files": "olapic.svg"
+  },
+  {
+    "title": "Olark",
+    "shortname": "olark",
+    "url": "https://www.olark.com/",
+    "files": "olark.svg"
+  },
+  {
+    "title": "OneSignal",
+    "shortname": "onesignal",
+    "url": "https://onesignal.com/",
+    "files": "onesignal.svg"
+  },
+  {
+    "title": "opbeat",
+    "shortname": "opbeat",
+    "url": "https://opbeat.com/",
+    "files": "opbeat.svg"
+  },
+  {
+    "title": "open collective",
+    "shortname": "opencollective",
+    "url": "https://opencollective.com/",
+    "files": "opencollective.svg"
+  },
+  {
+    "title": "Open GL",
+    "shortname": "opengl",
+    "url": "https://www.opengl.org/",
+    "files": "opengl.svg"
+  },
+  {
+    "title": "Open Graph",
+    "shortname": "open-graph",
+    "url": "http://ogp.me/",
+    "files": "open-graph.svg"
+  },
+  {
+    "title": "Open Source Hardware Association",
+    "shortname": "oshw",
+    "url": "http://www.oshwa.org/",
+    "files": "oshw.svg"
+  },
+  {
+    "title": "Open Source Initiative",
+    "shortname": "opensource",
+    "url": "http://opensource.org/",
+    "files": "opensource.svg"
+  },
+  {
+    "title": "OpenCart",
+    "shortname": "opencart",
+    "url": "http://www.opencart.com/",
+    "files": "opencart.svg",
+    "landscape": true
+  },
+  {
+    "title": "OpenCV",
+    "shortname": "opencv",
+    "url": "http://opencv.org/",
+    "files": "opencv.svg"
+  },
+  {
+    "title": "OpenLayers",
+    "shortname": "openlayers",
+    "url": "http://openlayers.org/",
+    "files": "openlayers.svg"
+  },
+  {
+    "title": "OpenShift",
+    "shortname": "openshift",
+    "url": "https://www.openshift.com/",
+    "files": "openshift.svg"
+  },
+  {
+    "title": "openstack",
+    "shortname": "openstack",
+    "url": "https://www.openstack.org/",
+    "files": "openstack.svg"
+  },
+  {
+    "title": "Opera",
+    "shortname": "opera",
+    "url": "http://www.opera.com/",
+    "files": "opera.svg"
+  },
+  {
+    "title": "Opsee",
+    "shortname": "opsee",
+    "url": "https://opsee.com/",
+    "files": "opsee.svg"
+  },
+  {
+    "title": "OpsGenie",
+    "shortname": "opsgenie",
+    "url": "https://www.opsgenie.com/",
+    "files": "opsgenie.svg"
+  },
+  {
+    "title": "Opsmatic",
+    "shortname": "opsmatic",
+    "url": "https://opsmatic.com/",
+    "files": "opsmatic.svg"
+  },
+  {
+    "title": "Optimizely",
+    "shortname": "optimizely",
+    "url": "https://www.optimizely.com/",
+    "files": "optimizely.svg"
+  },
+  {
+    "title": "Oracle",
+    "shortname": "oracle",
+    "url": "https://www.oracle.com/database/",
+    "files": "oracle.svg",
+    "landscape": true
+  },
+  {
+    "title": "Origami",
+    "shortname": "origami",
+    "url": "http://facebook.github.io/origami/",
+    "files": "origami.svg"
+  },
+  {
+    "title": "Origin",
+    "shortname": "origin",
+    "url": "https://www.origin.com/",
+    "files": "origin.svg"
+  },
+  {
+    "title": "osquery",
+    "shortname": "osquery",
+    "url": "https://osquery.io/",
+    "files": "osquery.svg"
+  },
+  {
+    "title": "Otto",
+    "shortname": "otto",
+    "url": "https://ottoproject.io/",
+    "files": "otto.svg"
+  },
+  {
+    "title": "Packer",
+    "shortname": "packer",
+    "url": "https://www.packer.io/",
+    "files": "packer.svg"
+  },
+  {
+    "title": "pagekit",
+    "shortname": "pagekit",
+    "url": "https://pagekit.com/",
+    "files": "pagekit.svg"
+  },
+  {
+    "title": "pagekite",
+    "shortname": "pagekite",
+    "url": "http://pagekite.net/",
+    "files": "pagekite.svg"
+  },
+  {
+    "title": "Panda",
+    "shortname": "panda",
+    "url": "http://usepanda.com/",
+    "files": "panda.svg"
+  },
+  {
+    "title": "Parse",
+    "shortname": "parse",
+    "url": "https://parse.com/",
+    "files": "parse.svg"
+  },
+  {
+    "title": "parsehub",
+    "shortname": "parsehub",
+    "url": "https://www.parsehub.com/",
+    "files": "parsehub.svg"
+  },
+  {
+    "title": "Passbolt",
+    "shortname": "passbolt",
+    "url": "https://www.passbolt.com/",
+    "files": "passbolt.svg"
+  },
+  {
+    "title": "Passport",
+    "shortname": "passport",
+    "url": "http://passportjs.org/",
+    "files": "passport.svg"
+  },
+  {
+    "title": "Patreon",
+    "shortname": "patreon",
+    "url": "https://www.patreon.com/",
+    "files": "patreon.svg"
+  },
+  {
+    "title": "PayPal",
+    "shortname": "paypal",
+    "url": "https://www.paypal.com/",
+    "files": "paypal.svg"
+  },
+  {
+    "title": "Peer 5",
+    "shortname": "peer5",
+    "url": "https://www.peer5.com/",
+    "files": "peer5.svg"
+  },
+  {
+    "title": "Pepperoni",
+    "shortname": "pepperoni",
+    "url": "http://getpepperoni.com/",
+    "files": "pepperoni.svg"
+  },
+  {
+    "title": "Percona",
+    "shortname": "percona",
+    "url": "https://www.percona.com/",
+    "files": "percona.svg"
+  },
+  {
+    "title": "Percy",
+    "shortname": "percy",
+    "url": "https://percy.io/",
+    "files": "percy.svg"
+  },
+  {
+    "title": "Perf Rocks",
+    "shortname": "perf-rocks",
+    "url": "http://perf.rocks/",
+    "files": "perf-rocks.svg",
+    "landscape": true
+  },
+  {
+    "title": "Periscope",
+    "shortname": "periscope",
+    "url": "https://www.periscopedata.com/",
+    "files": "periscope.svg"
+  },
+  {
+    "title": "Perl",
+    "shortname": "perl",
+    "url": "https://www.perl.org/",
+    "files": "perl.svg"
+  },
+  {
+    "title": "Phalcon",
+    "shortname": "phalcon",
+    "url": "https://phalconphp.com/",
+    "files": "phalcon.svg"
+  },
+  {
+    "title": "Phoenix",
+    "shortname": "phoenix",
+    "url": "http://www.phoenixframework.org/",
+    "files": "phoenix.svg"
+  },
+  {
+    "title": "PhoneGap",
+    "shortname": "phonegap",
+    "url": "http://phonegap.com/",
+    "files": "phonegap-bot.svg"
+  },
+  {
+    "title": "PhoneGap",
+    "shortname": "phonegap",
+    "url": "http://phonegap.com/",
+    "files": "phonegap.svg"
+  },
+  {
+    "title": "PHP",
+    "shortname": "php",
+    "url": "http://php.net/",
+    "files": "php.svg"
+  },
+  {
+    "title": "PhpStorm",
+    "shortname": "phpstorm",
+    "url": "https://www.jetbrains.com/phpstorm/",
+    "files": "phpstorm.svg"
+  },
+  {
+    "title": "Picasa",
+    "shortname": "picasa",
+    "url": "https://picasa.google.com/",
+    "files": "picasa.svg"
+  },
+  {
+    "title": "Pingdom",
+    "shortname": "pingdom",
+    "url": "https://www.pingdom.com/",
+    "files": "pingdom.svg",
+    "landscape": true
+  },
+  {
+    "title": "Pingy",
+    "shortname": "pingy",
+    "url": "https://pin.gy/",
+    "files": "pingy.svg"
+  },
+  {
+    "title": "Pinterest",
+    "shortname": "pinterest",
+    "url": "https://www.pinterest.com/",
+    "files": "pinterest.svg"
+  },
+  {
+    "title": "pipedrive",
+    "shortname": "pipedrive",
+    "url": "https://www.pipedrive.com/",
+    "files": "pipedrive.svg",
+    "landscape": true
+  },
+  {
+    "title": "Pipefy",
+    "shortname": "pipefy",
+    "url": "http://www.pipefy.com/",
+    "files": "pipefy.svg"
+  },
+  {
+    "title": "Pivotal Tracker",
+    "shortname": "pivotal_tracker",
+    "url": "http://www.pivotaltracker.com/",
+    "files": "pivotal_tracker.svg"
+  },
+  {
+    "title": "Pixate",
+    "shortname": "pixate",
+    "url": "http://www.pixate.com/",
+    "files": "pixate.svg"
+  },
+  {
+    "title": "Pixelapse",
+    "shortname": "pixelapse",
+    "url": "https://www.pixelapse.com/",
+    "files": "pixelapse.svg"
+  },
+  {
+    "title": "PKG",
+    "shortname": "pkg",
+    "url": "https://github.com/zeit/pkg",
+    "files": "pkg.svg"
+  },
+  {
+    "title": "Planless",
+    "shortname": "planless",
+    "url": "https://www.planless.io/",
+    "files": "planless.svg"
+  },
+  {
+    "title": "Plastic SCM",
+    "shortname": "plastic-scm",
+    "url": "https://www.plasticscm.com/",
+    "files": "plastic-scm.svg"
+  },
+  {
+    "title": "PlatformIO",
+    "shortname": "platformio",
+    "url": "http://platformio.org/",
+    "files": "platformio.svg"
+  },
+  {
+    "title": "Play",
+    "shortname": "play",
+    "url": "https://www.playframework.com/",
+    "files": "play.svg"
+  },
+  {
+    "title": "PM2",
+    "shortname": "pm2",
+    "url": "https://github.com/Unitech/pm2",
+    "files": "pm2.svg"
+  },
+  {
+    "title": "Podio",
+    "shortname": "podio",
+    "url": "https://podio.com/",
+    "files": "podio.svg"
+  },
+  {
+    "title": "POEditor",
+    "shortname": "poeditor",
+    "url": "https://poeditor.com/",
+    "files": "poeditor.svg"
+  },
+  {
+    "title": "Polymer",
+    "shortname": "polymer",
+    "url": "https://www.polymer-project.org/1.0/",
+    "files": "polymer.svg"
+  },
+  {
+    "title": "Positionly",
+    "shortname": "positionly",
+    "url": "https://positionly.com/",
+    "files": "positionly.svg"
+  },
+  {
+    "title": "PostCSS",
+    "shortname": "postcss",
+    "url": "https://github.com/postcss/postcss",
+    "files": "postcss.svg"
+  },
+  {
+    "title": "PostgreSQL",
+    "shortname": "postgresql",
+    "url": "http://www.postgresql.org/",
+    "files": "postgresql.svg"
+  },
+  {
+    "title": "Postman",
+    "shortname": "postman",
+    "url": "https://www.getpostman.com/",
+    "files": "postman.svg"
+  },
+  {
+    "title": "PouchDB",
+    "shortname": "pouchdb",
+    "url": "http://pouchdb.com/",
+    "files": "pouchdb.svg"
+  },
+  {
+    "title": "Preact",
+    "shortname": "preact",
+    "url": "https://preactjs.com/",
+    "files": "preact.svg"
+  },
+  {
+    "title": "Precursor",
+    "shortname": "precursor",
+    "url": "https://precursorapp.com/",
+    "files": "precursor.svg"
+  },
+  {
+    "title": "PrestaShop",
+    "shortname": "prestashop",
+    "url": "https://www.prestashop.com/",
+    "files": "prestashop.svg"
+  },
+  {
+    "title": "Presto",
+    "shortname": "presto",
+    "url": "https://prestodb.io/",
+    "files": "presto.svg"
+  },
+  {
+    "title": "Prettier",
+    "shortname": "prettier",
+    "url": "https://prettier.io/",
+    "files": "prettier.svg"
+  },
+  {
+    "title": "Prisma",
+    "shortname": "prisma",
+    "url": "https://www.prisma.io/",
+    "files": "prisma.svg"
+  },
+  {
+    "title": "ProcessWire",
+    "shortname": "processwire",
+    "url": "http://processwire.com/",
+    "files": "processwire.svg"
+  },
+  {
+    "title": "Product Hunt",
+    "shortname": "producthunt",
+    "url": "http://www.producthunt.com/",
+    "files": "producthunt.svg"
+  },
+  {
+    "title": "ProductBoard",
+    "shortname": "productboard",
+    "url": "https://www.productboard.com/",
+    "files": "productboard.svg"
+  },
+  {
+    "title": "Producteev",
+    "shortname": "producteev",
+    "url": "https://www.producteev.com/",
+    "files": "producteev.svg"
+  },
+  {
+    "title": "Progess",
+    "shortname": "progress",
+    "url": "https://www.progress.com/",
+    "files": "progress.svg"
+  },
+  {
+    "title": "Prometheus",
+    "shortname": "prometheus",
+    "url": "http://prometheus.io/",
+    "files": "prometheus.svg"
+  },
+  {
+    "title": "Promises/A+",
+    "shortname": "promises",
+    "url": "https://promisesaplus.com/",
+    "files": "promises.svg"
+  },
+  {
+    "title": "Proofy",
+    "shortname": "proofy",
+    "url": "http://proofy.io/",
+    "files": "proofy.svg"
+  },
+  {
+    "title": "Prospect",
+    "shortname": "prospect",
+    "url": "https://prospect.io/",
+    "files": "prospect.svg"
+  },
+  {
+    "title": "Protactor",
+    "shortname": "protactor",
+    "url": "http://www.protractortest.org/",
+    "files": "protactor.svg"
+  },
+  {
+    "title": "Proto.io",
+    "shortname": "protoio",
+    "url": "https://proto.io/",
+    "files": "protoio.svg"
+  },
+  {
+    "title": "Protonet",
+    "shortname": "protonet",
+    "url": "https://protonet.info",
+    "files": "protonet.svg",
+    "landscape": true
+  },
+  {
+    "title": "Prott",
+    "shortname": "prott",
+    "url": "https://prottapp.com/",
+    "files": "prott.svg"
+  },
+  {
+    "title": "Pug",
+    "shortname": "pug",
+    "url": "https://github.com/pugjs/pug",
+    "files": "pug.svg"
+  },
+  {
+    "title": "PumpkinDB",
+    "shortname": "pumpkindb",
+    "url": "http://pumpkindb.org/",
+    "files": "pumpkindb.svg"
+  },
+  {
+    "title": "Puppet",
+    "shortname": "puppet",
+    "url": "https://puppetlabs.com/",
+    "files": "puppet.svg"
+  },
+  {
+    "title": "Puppeteer",
+    "shortname": "puppeteer",
+    "url": "https://developers.google.com/web/tools/puppeteer/",
+    "files": "puppeteer.svg"
+  },
+  {
+    "title": "Puppy Linux",
+    "shortname": "puppy-linux",
+    "url": "http://puppylinux.org/",
+    "files": "puppy-linux.svg"
+  },
+  {
+    "title": "Pushbullet",
+    "shortname": "pushbullet",
+    "url": "https://www.pushbullet.com/",
+    "files": "pushbullet.svg"
+  },
+  {
+    "title": "Pusher",
+    "shortname": "pusher",
+    "url": "https://pusher.com/",
+    "files": "pusher.svg"
+  },
+  {
+    "title": "PyCharm",
+    "shortname": "pycharm",
+    "url": "https://www.jetbrains.com/pycharm/",
+    "files": "pycharm.svg"
+  },
+  {
+    "title": "Python",
+    "shortname": "python",
+    "url": "https://www.python.org/",
+    "files": "python.svg"
+  },
+  {
+    "title": "PyTorch",
+    "shortname": "pytorch",
+    "url": "https://pytorch.org/",
+    "files": "pytorch.svg"
+  },
+  {
+    "title": "Pyup",
+    "shortname": "pyup",
+    "url": "https://pyup.io/",
+    "files": "pyup.svg"
+  },
+  {
+    "title": "Q",
+    "shortname": "q",
+    "url": "https://github.com/kriskowal/q",
+    "files": "q.svg"
+  },
+  {
+    "title": "Qordoba",
+    "shortname": "qordoba",
+    "url": "https://www.qordoba.com/",
+    "files": "qordoba.svg"
+  },
+  {
+    "title": "Qt",
+    "shortname": "qt",
+    "url": "http://www.qt.io/",
+    "files": "qt.svg"
+  },
+  {
+    "title": "Quay",
+    "shortname": "quay",
+    "url": "https://quay.io/",
+    "files": "quay.svg"
+  },
+  {
+    "title": "quobyte",
+    "shortname": "quobyte",
+    "url": "http://www.quobyte.com/",
+    "files": "quobyte.svg"
+  },
+  {
+    "title": "Quora",
+    "shortname": "quora",
+    "url": "https://www.quora.com/",
+    "files": "quora.svg",
+    "landscape": true
+  },
+  {
+    "title": "R",
+    "shortname": "r-lang",
+    "url": "https://www.r-project.org/",
+    "files": "r-lang.svg"
+  },
+  {
+    "title": "RabbitMQ",
+    "shortname": "rabbitmq",
+    "url": "http://www.rabbitmq.com/",
+    "files": "rabbitmq.svg"
+  },
+  {
+    "title": "Rackspace",
+    "shortname": "rackspace",
+    "url": "http://www.rackspace.com/",
+    "files": "rackspace.svg"
+  },
+  {
+    "title": "Rails",
+    "shortname": "rails",
+    "url": "http://rubyonrails.org/",
+    "files": "rails.svg",
+    "landscape": true
+  },
+  {
+    "title": "Ramda",
+    "shortname": "ramda",
+    "url": "http://ramdajs.com/",
+    "files": "ramda.svg"
+  },
+  {
+    "title": "RAML",
+    "shortname": "raml",
+    "url": "http://raml.org/",
+    "files": "raml.svg"
+  },
+  {
+    "title": "Rancher",
+    "shortname": "rancher",
+    "url": "http://rancher.com/",
+    "files": "rancher.svg"
+  },
+  {
+    "title": "randomColor",
+    "shortname": "randomcolor",
+    "url": "http://llllll.li/randomColor/",
+    "files": "randomcolor.svg"
+  },
+  {
+    "title": "Raphaël",
+    "shortname": "raphael",
+    "url": "http://raphaeljs.com/",
+    "files": "raphael.svg"
+  },
+  {
+    "title": "Raspberry Pi",
+    "shortname": "raspberry-pi",
+    "url": "https://www.raspberrypi.org/",
+    "files": "raspberry-pi.svg"
+  },
+  {
+    "title": "Rax",
+    "shortname": "rax",
+    "url": "http://rax.taobaofed.org/",
+    "files": "rax.svg"
+  },
+  {
+    "title": "React",
+    "shortname": "react",
+    "url": "https://facebook.github.io/react/",
+    "files": "react.svg"
+  },
+  {
+    "title": "React Styleguidist",
+    "shortname": "react-styleguidist",
+    "url": "https://react-styleguidist.js.org/",
+    "files": "react-styleguidist.svg"
+  },
+  {
+    "title": "React/Router",
+    "shortname": "react-router",
+    "url": "https://github.com/rackt/react-router",
+    "files": "react-router.svg"
+  },
+  {
+    "title": "ReactiveX (RxJS)",
+    "shortname": "reactivex",
+    "url": "http://reactivex.io/",
+    "files": "reactivex.svg"
+  },
+  {
+    "title": "Realm",
+    "shortname": "realm",
+    "url": "https://realm.io/",
+    "files": "realm.svg"
+  },
+  {
+    "title": "Reapp",
+    "shortname": "reapp",
+    "url": "http://reapp.io/",
+    "files": "reapp.svg"
+  },
+  {
+    "title": "Reason ML",
+    "shortname": "reasonml",
+    "url": "https://reasonml.github.io/",
+    "files": "reasonml-icon.svg"
+  },
+  {
+    "title": "Reason ML",
+    "shortname": "reasonml",
+    "url": "https://reasonml.github.io/",
+    "files": "reasonml.svg",
+    "landscape": true
+  },
+  {
+    "title": "Recast.AI",
+    "shortname": "recast.ai",
+    "url": "https://recast.ai/",
+    "files": "recast.ai.svg"
+  },
+  {
+    "title": "Reddit",
+    "shortname": "reddit",
+    "url": "https://www.reddit.com/",
+    "files": "reddit.svg"
+  },
+  {
+    "title": "RedHat",
+    "shortname": "redhat",
+    "url": "http://www.redhat.com/",
+    "files": "redhat.svg"
+  },
+  {
+    "title": "Redis",
+    "shortname": "redis",
+    "url": "http://redis.io/",
+    "files": "redis.svg"
+  },
+  {
+    "title": "Redsmin",
+    "shortname": "redsmin",
+    "url": "https://redsmin.com/",
+    "files": "redsmin.svg"
+  },
+  {
+    "title": "Redspread",
+    "shortname": "redspread",
+    "url": "https://redspread.com/",
+    "files": "redspread.svg",
+    "landscape": true
+  },
+  {
+    "title": "Redux",
+    "shortname": "redux",
+    "url": "http://redux.js.org/",
+    "files": "redux.svg"
+  },
+  {
+    "title": "redux-observable",
+    "shortname": "redux-observable",
+    "url": "https://github.com/redux-observable/redux-observable",
+    "files": "redux-observable.svg"
+  },
+  {
+    "title": "redux-saga",
+    "shortname": "redux-saga",
+    "url": "https://redux-saga.js.org/",
+    "files": "redux-saga.svg"
+  },
+  {
+    "title": "Refactor.io",
+    "shortname": "refactor",
+    "url": "https://www.refactor.io/",
+    "files": "refactor.svg"
+  },
+  {
+    "title": "Reindex",
+    "shortname": "reindex",
+    "url": "https://www.reindex.io/",
+    "files": "reindex.svg"
+  },
+  {
+    "title": "Relay",
+    "shortname": "relay",
+    "url": "https://facebook.github.io/relay/",
+    "files": "relay.svg"
+  },
+  {
+    "title": "Remergr",
+    "shortname": "remergr",
+    "url": "https://remergr.io/",
+    "files": "remergr.svg"
+  },
+  {
+    "title": "RequireJS",
+    "shortname": "require",
+    "url": "http://requirejs.org/",
+    "files": "require.svg"
+  },
+  {
+    "title": "Rest",
+    "shortname": "rest",
+    "url": "http://www.w3.org/2001/sw/wiki/REST",
+    "files": "rest.svg"
+  },
+  {
+    "title": "rest.li",
+    "shortname": "rest-li",
+    "url": "https://github.com/linkedin/rest.li",
+    "files": "rest-li.svg"
+  },
+  {
+    "title": "RethinkDB",
+    "shortname": "rethinkdb",
+    "url": "http://www.rethinkdb.com/",
+    "files": "rethinkdb.svg",
+    "landscape": true
+  },
+  {
+    "title": "Riak",
+    "shortname": "riak",
+    "url": "http://basho.com/products/#riak",
+    "files": "riak.svg"
+  },
+  {
+    "title": "Riot",
+    "shortname": "riotjs",
+    "url": "http://riotjs.com/",
+    "files": "riot.svg"
+  },
+  {
+    "title": "rkt",
+    "shortname": "rkt",
+    "url": "https://github.com/coreos/rkt",
+    "files": "rkt.svg"
+  },
+  {
+    "title": "RocketChat",
+    "shortname": "rocket-chat",
+    "url": "https://rocket.chat/",
+    "files": "rocket-chat.svg"
+  },
+  {
+    "title": "RocksDB",
+    "shortname": "rocksdb",
+    "url": "http://rocksdb.org/",
+    "files": "rocksdb.svg"
+  },
+  {
+    "title": "Rollbar",
+    "shortname": "rollbar",
+    "url": "https://rollbar.com/",
+    "files": "rollbar.svg"
+  },
+  {
+    "title": "rollup.js",
+    "shortname": "rollupjs",
+    "url": "http://rollupjs.org/",
+    "files": "rollupjs.svg"
+  },
+  {
+    "title": "RSA",
+    "shortname": "rsa",
+    "url": "http://www.emc.com/domains/rsa/index.htm",
+    "files": "rsa.svg"
+  },
+  {
+    "title": "RSMQ",
+    "shortname": "rsmq",
+    "url": "http://smrchy.github.io/rsmq/",
+    "files": "rsmq.svg"
+  },
+  {
+    "title": "RuboCop",
+    "shortname": "rubocop",
+    "url": "http://batsov.com/rubocop/",
+    "files": "rubocop.svg"
+  },
+  {
+    "title": "Ruby",
+    "shortname": "ruby",
+    "url": "https://www.ruby-lang.org/",
+    "files": "ruby.svg"
+  },
+  {
+    "title": "RubyGems",
+    "shortname": "rubygems",
+    "url": "https://rubygems.org/",
+    "files": "rubygems.svg"
+  },
+  {
+    "title": "RubyMine",
+    "shortname": "rubymine",
+    "url": "https://www.jetbrains.com/ruby/",
+    "files": "rubymine.svg"
+  },
+  {
+    "title": "Rum",
+    "shortname": "rum",
+    "url": "https://github.com/tonsky/rum",
+    "files": "rum.svg"
+  },
+  {
+    "title": "RunAbove",
+    "shortname": "run-above",
+    "url": "https://www.runabove.com/",
+    "files": "run-above.svg"
+  },
+  {
+    "title": "Runnable",
+    "shortname": "runnable",
+    "url": "https://runnable.io/",
+    "files": "runnable.svg"
+  },
+  {
+    "title": "runscope",
+    "shortname": "runscope",
+    "url": "https://www.runscope.com/",
+    "files": "runscope.svg"
+  },
+  {
+    "title": "Rust",
+    "shortname": "rust",
+    "url": "http://www.rust-lang.org/",
+    "files": "rust.svg"
+  },
+  {
+    "title": "RxDB",
+    "shortname": "rxdb",
+    "url": "https://pubkey.github.io/rxdb/",
+    "files": "rxdb.svg"
+  },
+  {
+    "title": "Safari",
+    "shortname": "safari",
+    "url": "https://www.apple.com/safari/",
+    "files": "safari.svg"
+  },
+  {
+    "title": "Sagui",
+    "shortname": "sagui",
+    "url": "http://sagui.js.org/",
+    "files": "sagui.svg"
+  },
+  {
+    "title": "Sails",
+    "shortname": "sails",
+    "url": "http://sailsjs.org/",
+    "files": "sails.svg"
+  },
+  {
+    "title": "Salesforce",
+    "shortname": "salesforce",
+    "url": "http://www.salesforce.com/",
+    "files": "salesforce.svg"
+  },
+  {
+    "title": "SaltStack",
+    "shortname": "saltstack",
+    "url": "http://saltstack.com/",
+    "files": "saltstack.svg"
+  },
+  {
+    "title": "Sameroom",
+    "shortname": "sameroom",
+    "url": "https://sameroom.io/",
+    "files": "sameroom.svg"
+  },
+  {
+    "title": "Sanity",
+    "shortname": "sanity",
+    "url": "https://www.sanity.io/",
+    "files": "sanity.svg"
+  },
+  {
+    "title": "Sass",
+    "shortname": "sass",
+    "url": "http://sass-lang.com/",
+    "files": "sass.svg"
+  },
+  {
+    "title": "SassDoc",
+    "shortname": "sass-doc",
+    "url": "http://sassdoc.com/",
+    "files": "sass-doc.svg"
+  },
+  {
+    "title": "Sauce Labs",
+    "shortname": "saucelabs",
+    "url": "https://saucelabs.com/",
+    "files": "saucelabs.svg"
+  },
+  {
+    "title": "Scala",
+    "shortname": "scala",
+    "url": "http://www.scala-lang.org/",
+    "files": "scala.svg"
+  },
+  {
+    "title": "Scaledrone",
+    "shortname": "scaledrone",
+    "url": "https://www.scaledrone.com/",
+    "files": "scaledrone.svg"
+  },
+  {
+    "title": "Scaphold",
+    "shortname": "scaphold",
+    "url": "https://scaphold.io/",
+    "files": "scaphold.svg"
+  },
+  {
+    "title": "Scribd",
+    "shortname": "scribd",
+    "url": "https://www.scribd.com/",
+    "files": "scribd.svg",
+    "landscape": true
+  },
+  {
+    "title": "section.io",
+    "shortname": "sectionio",
+    "url": "https://www.section.io/",
+    "files": "sectionio.svg"
+  },
+  {
+    "title": "Segment",
+    "shortname": "segment",
+    "url": "https://segment.com/",
+    "files": "segment.svg",
+    "landscape": true
+  },
+  {
+    "title": "Selenium",
+    "shortname": "selenium",
+    "url": "http://www.seleniumhq.org/",
+    "files": "selenium.svg"
+  },
+  {
+    "title": "Semantic UI",
+    "shortname": "semantic-ui",
+    "url": "http://semantic-ui.com/",
+    "files": "semantic-ui.svg"
+  },
+  {
+    "title": "Semaphore",
+    "shortname": "semaphore",
+    "url": "https://semaphoreci.com/",
+    "files": "semaphore.svg"
+  },
+  {
+    "title": "Sencha Touch",
+    "shortname": "sencha",
+    "url": "https://www.sencha.com/",
+    "files": "sencha.svg"
+  },
+  {
+    "title": "SendGrid",
+    "shortname": "sendgrid",
+    "url": "https://sendgrid.com/",
+    "files": "sendgrid.svg"
+  },
+  {
+    "title": "Seneca",
+    "shortname": "seneca",
+    "url": "http://senecajs.org/",
+    "files": "seneca.svg"
+  },
+  {
+    "title": "sensu",
+    "shortname": "sensu",
+    "url": "https://sensuapp.org/",
+    "files": "sensu.svg"
+  },
+  {
+    "title": "Sentry",
+    "shortname": "sentry",
+    "url": "https://getsentry.com/welcome/",
+    "files": "sentry.svg"
+  },
+  {
+    "title": "Sequelize",
+    "shortname": "sequelize",
+    "url": "http://sequelizejs.com/",
+    "files": "sequelize.svg"
+  },
+  {
+    "title": "Serverless",
+    "shortname": "serverless",
+    "url": "https://serverless.com/",
+    "files": "serverless.svg"
+  },
+  {
+    "title": "Sherlock",
+    "shortname": "sherlock",
+    "url": "https://sherlock.knowtify.io/",
+    "files": "sherlock.svg"
+  },
+  {
+    "title": "Shields.io",
+    "shortname": "shields",
+    "url": "http://shields.io/",
+    "files": "shields.svg"
+  },
+  {
+    "title": "Shipit",
+    "shortname": "shipit",
+    "url": "https://github.com/shipitjs/shipit",
+    "files": "shipit.svg",
+    "landscape": true
+  },
+  {
+    "title": "Shippable",
+    "shortname": "shippable",
+    "url": "https://www.shippable.com/",
+    "files": "shippable.svg",
+    "landscape": true
+  },
+  {
+    "title": "Shogun",
+    "shortname": "shogun",
+    "url": "https://getshogun.com/",
+    "files": "shogun.svg"
+  },
+  {
+    "title": "Shopify",
+    "shortname": "shopify",
+    "url": "http://shopify.com/",
+    "files": "shopify.svg"
+  },
+  {
+    "title": "Sidekick",
+    "shortname": "sidekick",
+    "url": "http://www.getsidekick.com/",
+    "files": "sidekick.svg"
+  },
+  {
+    "title": "Sidekiq",
+    "shortname": "sidekiq",
+    "url": "http://sidekiq.org/",
+    "files": "sidekiq.svg"
+  },
+  {
+    "title": "Sinatra",
+    "shortname": "sinatra",
+    "url": "http://www.sinatrarb.com/",
+    "files": "sinatra.svg"
+  },
+  {
+    "title": "Siphon",
+    "shortname": "siphon",
+    "url": "https://getsiphon.com/",
+    "files": "siphon.svg"
+  },
+  {
+    "title": "SitePoint",
+    "shortname": "sitepoint",
+    "url": "http://www.sitepoint.com/",
+    "files": "sitepoint.svg"
+  },
+  {
+    "title": "Sketch",
+    "shortname": "sketchapp",
+    "url": "http://bohemiancoding.com/sketch/",
+    "files": "sketch.svg"
+  },
+  {
+    "title": "Skylight",
+    "shortname": "skylight",
+    "url": "https://www.skylight.io/",
+    "files": "skylight.svg"
+  },
+  {
+    "title": "Skype",
+    "shortname": "skype",
+    "url": "http://www.skype.com/",
+    "files": "skype.svg"
+  },
+  {
+    "title": "slack",
+    "shortname": "slack",
+    "url": "https://slack.com/",
+    "files": "slack-icon.svg",
+    "landscape": true
+  },
+  {
+    "title": "slack",
+    "shortname": "slack",
+    "url": "https://slack.com/",
+    "files": "slack.svg"
+  },
+  {
+    "title": "slides",
+    "shortname": "slides",
+    "url": "https://slides.com/",
+    "files": "slides.svg"
+  },
+  {
+    "title": "Slim",
+    "shortname": "slim",
+    "url": "http://www.slimframework.com/",
+    "files": "slim.svg"
+  },
+  {
+    "title": "Smartling",
+    "shortname": "smartling",
+    "url": "https://www.smartling.com/",
+    "files": "smartling.svg"
+  },
+  {
+    "title": "Smashing Magazine",
+    "shortname": "smashingmagazine",
+    "url": "http://www.smashingmagazine.com/",
+    "files": "smashingmagazine.svg"
+  },
+  {
+    "title": "Snap.svg",
+    "shortname": "snap-svg",
+    "url": "http://snapsvg.io/",
+    "files": "snap-svg.svg"
+  },
+  {
+    "title": "Snupps",
+    "shortname": "snupps",
+    "url": "https://www.snupps.com/",
+    "files": "snupps.svg"
+  },
+  {
+    "title": "Snyk",
+    "shortname": "snyk",
+    "url": "https://snyk.io/",
+    "files": "snyk.svg"
+  },
+  {
+    "title": "Socket.io",
+    "shortname": "socket_io",
+    "url": "http://socket.io/",
+    "files": "socket.io.svg"
+  },
+  {
+    "title": "Solr",
+    "shortname": "solr",
+    "url": "http://lucene.apache.org/solr/",
+    "files": "solr.svg"
+  },
+  {
+    "title": "SonarQube",
+    "shortname": "sonarqube",
+    "url": "https://www.sonarqube.org/",
+    "files": "sonarqube.svg",
+    "landscape": true
+  },
+  {
+    "title": "soundcloud",
+    "shortname": "soundcloud",
+    "url": "https://soundcloud.com/",
+    "files": "soundcloud.svg",
+    "landscape": true
+  },
+  {
+    "title": "Sourcegraph",
+    "shortname": "sourcegraph",
+    "url": "https://sourcegraph.com/",
+    "files": "sourcegraph.svg"
+  },
+  {
+    "title": "Sourcetrail",
+    "shortname": "sourcetrail",
+    "url": "https://www.sourcetrail.com/",
+    "files": "sourcetrail.svg"
+  },
+  {
+    "title": "SourceTree",
+    "shortname": "sourcetree",
+    "url": "https://www.sourcetreeapp.com/",
+    "files": "sourcetree.svg"
+  },
+  {
+    "title": "Spark",
+    "shortname": "spark",
+    "url": "http://sparkjava.com/",
+    "files": "spark.svg"
+  },
+  {
+    "title": "Sparkcentral",
+    "shortname": "sparkcentral",
+    "url": "http://www.sparkcentral.com/",
+    "files": "sparkcentral.svg"
+  },
+  {
+    "title": "SparkPost",
+    "shortname": "sparkpost",
+    "url": "https://www.sparkpost.com/",
+    "files": "sparkpost.svg",
+    "landscape": true
+  },
+  {
+    "title": "Speaker Deck",
+    "shortname": "speakerdeck",
+    "url": "https://speakerdeck.com/",
+    "files": "speakerdeck.svg"
+  },
+  {
+    "title": "SpeedCurve",
+    "shortname": "speedcurve",
+    "url": "https://speedcurve.com/",
+    "files": "speedcurve.svg"
+  },
+  {
+    "title": "Spinnaker",
+    "shortname": "spinnaker",
+    "url": "spinnaker",
+    "files": "spinnaker.svg"
+  },
+  {
+    "title": "Spree Commerce",
+    "shortname": "spree",
+    "url": "https://spreecommerce.org/",
+    "files": "spree.svg",
+    "landscape": true
+  },
+  {
+    "title": "Spring",
+    "shortname": "spring",
+    "url": "https://spring.io/",
+    "files": "spring.svg"
+  },
+  {
+    "title": "SQLdep",
+    "shortname": "sqldep",
+    "url": "https://sqldep.com/",
+    "files": "sqldep.svg",
+    "landscape": true
+  },
+  {
+    "title": "SQLite",
+    "shortname": "sqlite",
+    "url": "http://www.sqlite.org/",
+    "files": "sqlite.svg"
+  },
+  {
+    "title": "Square",
+    "shortname": "square",
+    "url": "https://squareup.com/",
+    "files": "square.svg"
+  },
+  {
+    "title": "Squarespace",
+    "shortname": "squarespace",
+    "url": "http://www.squarespace.com/",
+    "files": "squarespace.svg"
+  },
+  {
+    "title": "Stack Overflow",
+    "shortname": "stackoverflow",
+    "url": "http://stackoverflow.com/",
+    "files": "stackoverflow.svg",
+    "landscape": true
+  },
+  {
+    "title": "stackshare",
+    "shortname": "stackshare",
+    "url": "http://stackshare.io/",
+    "files": "stackshare.svg"
+  },
+  {
+    "title": "Stacksmith",
+    "shortname": "stacksmith",
+    "url": "https://stacksmith.bitnami.com/",
+    "files": "stacksmith.svg"
+  },
+  {
+    "title": "Stash",
+    "shortname": "stash",
+    "url": "https://www.atlassian.com/software/stash",
+    "files": "stash.svg"
+  },
+  {
+    "title": "StatusPage",
+    "shortname": "statuspage",
+    "url": "https://www.statuspage.io/",
+    "files": "statuspage.svg"
+  },
+  {
+    "title": "Steam",
+    "shortname": "steam",
+    "url": "http://store.steampowered.com/",
+    "files": "steam.svg"
+  },
+  {
+    "title": "Steemit",
+    "shortname": "steemit",
+    "url": "https://steemit.com/",
+    "files": "steemit.svg"
+  },
+  {
+    "title": "Steroids",
+    "shortname": "steroids",
+    "url": "http://www.appgyver.com/steroids",
+    "files": "steroids.svg"
+  },
+  {
+    "title": "Stetho",
+    "shortname": "stetho",
+    "url": "http://facebook.github.io/stetho/",
+    "files": "stetho.svg"
+  },
+  {
+    "title": "stickermule",
+    "shortname": "stickermule",
+    "url": "https://www.stickermule.com/",
+    "files": "stickermule.svg",
+    "landscape": true
+  },
+  {
+    "title": "Stitch",
+    "shortname": "stitch",
+    "url": "https://www.stitchdata.com/",
+    "files": "stitch.svg"
+  },
+  {
+    "title": "StopLight",
+    "shortname": "stoplight",
+    "url": "https://stoplight.io/",
+    "files": "stoplight.svg"
+  },
+  {
+    "title": "Stormpath",
+    "shortname": "stormpath",
+    "url": "https://stormpath.com/",
+    "files": "stormpath.svg"
+  },
+  {
+    "title": "Storybook",
+    "shortname": "storybook",
+    "url": "https://storybook.js.org/",
+    "files": "storybook.svg",
+    "landscape": true
+  },
+  {
+    "title": "Storybook",
+    "shortname": "storybook",
+    "url": "https://storybook.js.org/",
+    "files": "storybook-icon.svg"
+  },
+  {
+    "title": "Strapi",
+    "shortname": "strapi",
+    "url": "https://strapi.io/",
+    "files": "strapi.svg"
+  },
+  {
+    "title": "Strider",
+    "shortname": "strider",
+    "url": "http://stridercd.com/",
+    "files": "strider.svg"
+  },
+  {
+    "title": "Stripe",
+    "shortname": "stripe",
+    "url": "https://stripe.com/",
+    "files": "stripe.svg",
+    "landscape": true
+  },
+  {
+    "title": "StrongLoop",
+    "shortname": "strongloop",
+    "url": "https://strongloop.com/",
+    "files": "strongloop.svg"
+  },
+  {
+    "title": "Struts",
+    "shortname": "struts",
+    "url": "https://struts.apache.org/",
+    "files": "struts.svg"
+  },
+  {
+    "title": "StyleCI",
+    "shortname": "styleci",
+    "url": "https://styleci.io/",
+    "files": "styleci.svg"
+  },
+  {
+    "title": "stylefmt",
+    "shortname": "stylefmt",
+    "url": "https://github.com/morishitter/stylefmt",
+    "files": "stylefmt.svg"
+  },
+  {
+    "title": "stylelint",
+    "shortname": "stylelint",
+    "url": "http://stylelint.io/",
+    "files": "stylelint.svg"
+  },
+  {
+    "title": "Stylus",
+    "shortname": "stylus",
+    "url": "https://learnboost.github.io/stylus/",
+    "files": "stylus.svg"
+  },
+  {
+    "title": "Subversion",
+    "shortname": "subversion",
+    "url": "https://subversion.apache.org/",
+    "files": "subversion.svg"
+  },
+  {
+    "title": "SugarSS",
+    "shortname": "sugarss",
+    "url": "https://github.com/postcss/sugarss",
+    "files": "sugarss.svg"
+  },
+  {
+    "title": "Supergiant",
+    "shortname": "supergiant",
+    "url": "http://supergiant.io/",
+    "files": "supergiant.svg"
+  },
+  {
+    "title": "Supersonic",
+    "shortname": "supersonic",
+    "url": "http://www.appgyver.com/supersonic",
+    "files": "supersonic.svg"
+  },
+  {
+    "title": "supportkit",
+    "shortname": "supportkit",
+    "url": "https://supportkit.io/",
+    "files": "supportkit.svg"
+  },
+  {
+    "title": "Surge",
+    "shortname": "surge",
+    "url": "http://surge.sh/",
+    "files": "surge.svg"
+  },
+  {
+    "title": "survicate",
+    "shortname": "survicate",
+    "url": "http://survicate.com/",
+    "files": "survicate.svg"
+  },
+  {
+    "title": "Suse",
+    "shortname": "suse",
+    "url": "https://www.suse.com/",
+    "files": "suse.svg"
+  },
+  {
+    "title": "Susy",
+    "shortname": "susy",
+    "url": "http://susy.oddbird.net/",
+    "files": "susy.svg"
+  },
+  {
+    "title": "SVG",
+    "shortname": "svg",
+    "url": "http://www.w3.org/Graphics/SVG/",
+    "files": "svg.svg"
+  },
+  {
+    "title": "Swagger",
+    "shortname": "swagger",
+    "url": "https://swagger.io/",
+    "files": "swagger.svg"
+  },
+  {
+    "title": "Swift",
+    "shortname": "swift",
+    "url": "https://developer.apple.com/swift/",
+    "files": "swift.svg"
+  },
+  {
+    "title": "Swiftype",
+    "shortname": "swiftype",
+    "url": "https://swiftype.com/",
+    "files": "swiftype.svg"
+  },
+  {
+    "title": "Symfony",
+    "shortname": "symfony",
+    "url": "https://symfony.com/",
+    "files": "symfony.svg"
+  },
+  {
+    "title": "Sysdig",
+    "shortname": "sysdig",
+    "url": "http://www.sysdig.org/",
+    "files": "sysdig.svg"
+  },
+  {
+    "title": "T3",
+    "shortname": "t3",
+    "url": "http://t3js.org/",
+    "files": "t3.svg"
+  },
+  {
+    "title": "Taiga",
+    "shortname": "taiga",
+    "url": "https://taiga.io/",
+    "files": "taiga.svg"
+  },
+  {
+    "title": "Tailwind CSS",
+    "shortname": "tailwindcss",
+    "url": "https://tailwindcss.com/",
+    "files": "tailwindcss.svg",
+    "landscape": true
+  },
+  {
+    "title": "Tailwind CSS",
+    "shortname": "tailwindcss",
+    "url": "https://tailwindcss.com/",
+    "files": "tailwindcss-icon.svg"
+  },
+  {
+    "title": "tapcart",
+    "shortname": "tapcart",
+    "url": "https://tapcart.co/",
+    "files": "tapcart.svg"
+  },
+  {
+    "title": "TargetProcess",
+    "shortname": "targetprocess",
+    "url": "http://www.targetprocess.com/",
+    "files": "targetprocess.svg"
+  },
+  {
+    "title": "TasteJS",
+    "shortname": "tastejs",
+    "url": "http://tastejs.com/",
+    "files": "tastejs.svg"
+  },
+  {
+    "title": "Tealium",
+    "shortname": "tealium",
+    "url": "https://tealium.com",
+    "files": "tealium.svg"
+  },
+  {
+    "title": "Teamgrid",
+    "shortname": "teamgrid",
+    "url": "http://www.teamgridapp.com/",
+    "files": "teamgrid.svg"
+  },
+  {
+    "title": "teamwork",
+    "shortname": "teamwork",
+    "url": "https://www.teamwork.com/",
+    "files": "teamwork.svg"
+  },
+  {
+    "title": "Tecnotic",
+    "shortname": "tectonic",
+    "url": "https://tectonic.com/",
+    "files": "tectonic.svg"
+  },
+  {
+    "title": "Telegram",
+    "shortname": "telegram",
+    "url": "https://telegram.org/",
+    "files": "telegram.svg"
+  },
+  {
+    "title": "TensorFlow",
+    "shortname": "tensorflow",
+    "url": "https://www.tensorflow.org/",
+    "files": "tensorflow.svg"
+  },
+  {
+    "title": "Terminal",
+    "shortname": "terminal",
+    "url": "https://en.wikipedia.org/wiki/Terminal_emulator",
+    "files": "terminal.svg"
+  },
+  {
+    "title": "Terraform",
+    "shortname": "terraform",
+    "url": "https://www.terraform.io/",
+    "files": "terraform.svg"
+  },
+  {
+    "title": "TestLodge",
+    "shortname": "testlodge",
+    "url": "http://www.testlodge.com/",
+    "files": "testlodge.svg"
+  },
+  {
+    "title": "Testmunk",
+    "shortname": "testmunk",
+    "url": "https://testmunk.com/",
+    "files": "testmunk.svg"
+  },
+  {
+    "title": "Thimble",
+    "shortname": "thimble",
+    "url": "https://thimble.mozilla.org/",
+    "files": "thimble.svg"
+  },
+  {
+    "title": "Titon",
+    "shortname": "titon",
+    "url": "http://titon.io/en/toolkit",
+    "files": "titon.svg"
+  },
+  {
+    "title": "Todoist",
+    "shortname": "todoist",
+    "url": "https://en.todoist.com/",
+    "files": "todoist.svg"
+  },
+  {
+    "title": "TodoMVC",
+    "shortname": "todomvc",
+    "url": "http://todomvc.com/",
+    "files": "todomvc.svg"
+  },
+  {
+    "title": "Torus",
+    "shortname": "torus",
+    "url": "https://www.torus.sh/",
+    "files": "torus.svg"
+  },
+  {
+    "title": "Traackr",
+    "shortname": "traackr",
+    "url": "http://traackr.com/",
+    "files": "traackr.svg"
+  },
+  {
+    "title": "Trac",
+    "shortname": "trac",
+    "url": "http://trac.edgewall.org/",
+    "files": "trac.svg"
+  },
+  {
+    "title": "Trace",
+    "shortname": "trace",
+    "url": "https://trace.risingstack.com/",
+    "files": "trace.svg"
+  },
+  {
+    "title": "Travis CI",
+    "shortname": "travis-ci",
+    "url": "https://travis-ci.org/",
+    "files": "travis-ci.svg"
+  },
+  {
+    "title": "Treasure Data",
+    "shortname": "treasuredata",
+    "url": "https://www.treasuredata.com/",
+    "files": "treasuredata.svg"
+  },
+  {
+    "title": "treehouse",
+    "shortname": "treehouse",
+    "url": "https://teamtreehouse.com/",
+    "files": "treehouse.svg"
+  },
+  {
+    "title": "Trello",
+    "shortname": "trello",
+    "url": "https://trello.com/",
+    "files": "trello.svg"
+  },
+  {
+    "title": "tsuru",
+    "shortname": "tsuru",
+    "url": "https://tsuru.io/",
+    "files": "tsuru.svg"
+  },
+  {
+    "title": "tsū˜",
+    "shortname": "tsu",
+    "url": "http://www.tsu.co/",
+    "files": "tsu.svg"
+  },
+  {
+    "title": "tumblr",
+    "shortname": "tumblr",
+    "url": "https://tumblr.com/",
+    "files": "tumblr.svg",
+    "landscape": true
+  },
+  {
+    "title": "tumblr",
+    "shortname": "tumblr",
+    "url": "https://tumblr.com/",
+    "files": "tumblr-icon.svg"
+  },
+  {
+    "title": "TuneIn",
+    "shortname": "tunein",
+    "url": "http://tunein.com/",
+    "files": "tunein.svg"
+  },
+  {
+    "title": "Turret",
+    "shortname": "turret",
+    "url": "http://bigfishtv.github.io/turret/",
+    "files": "turret.svg"
+  },
+  {
+    "title": "tuts+",
+    "shortname": "tutsplus",
+    "url": "http://tutsplus.com/",
+    "files": "tutsplus.svg"
+  },
+  {
+    "title": "Tutum",
+    "shortname": "tutum",
+    "url": "https://www.tutum.co/",
+    "files": "tutum.svg"
+  },
+  {
+    "title": "Twilio",
+    "shortname": "twilio",
+    "url": "https://www.twilio.com/",
+    "files": "twilio.svg"
+  },
+  {
+    "title": "Twitch",
+    "shortname": "twitch",
+    "url": "http://www.twitch.tv/",
+    "files": "twitch.svg"
+  },
+  {
+    "title": "Twitter",
+    "shortname": "twitter",
+    "url": "https://twitter.com/",
+    "files": "twitter.svg"
+  },
+  {
+    "title": "Typeform",
+    "shortname": "typeform",
+    "url": "http://www.typeform.com/",
+    "files": "typeform.svg"
+  },
+  {
+    "title": "Typescript",
+    "shortname": "typescript",
+    "url": "https://www.typescriptlang.org/",
+    "files": "typescript-icon.svg"
+  },
+  {
+    "title": "Typescript",
+    "shortname": "typescript",
+    "url": "https://www.typescriptlang.org/",
+    "files": "typescript.svg",
+    "landscape": true
+  },
+  {
+    "title": "ubuntu",
+    "shortname": "ubuntu",
+    "url": "http://www.ubuntu.com/",
+    "files": "ubuntu.svg"
+  },
+  {
+    "title": "Udacity",
+    "shortname": "udacity",
+    "url": "https://udacity.com",
+    "files": "udacity.svg"
+  },
+  {
+    "title": "Udemy",
+    "shortname": "udemy",
+    "url": "https://www.udemy.com/",
+    "files": "udemy.svg"
+  },
+  {
+    "title": "uikit",
+    "shortname": "uikit",
+    "url": "http://getuikit.com/",
+    "files": "uikit.svg"
+  },
+  {
+    "title": "Umu",
+    "shortname": "umu",
+    "url": "https://www.umu.com/",
+    "files": "umu.svg"
+  },
+  {
+    "title": "Unbounce",
+    "shortname": "unbounce",
+    "url": "http://unbounce.com/",
+    "files": "unbounce.svg"
+  },
+  {
+    "title": "Undertow",
+    "shortname": "undertow",
+    "url": "http://undertow.io/",
+    "files": "undertow.svg"
+  },
+  {
+    "title": "UnionPay",
+    "shortname": "unionpay",
+    "url": "http://www.unionpayintl.com/",
+    "files": "unionpay.svg"
+  },
+  {
+    "title": "UnitJS",
+    "shortname": "unitjs",
+    "url": "http://unitjs.com/",
+    "files": "unitjs.svg"
+  },
+  {
+    "title": "Unito",
+    "shortname": "unito",
+    "url": "https://unito.io",
+    "files": "unito.svg"
+  },
+  {
+    "title": "Unity",
+    "shortname": "unity",
+    "url": "https://unity3d.com/",
+    "files": "unity.svg"
+  },
+  {
+    "title": "Upcase",
+    "shortname": "upcase",
+    "url": "https://upcase.com/",
+    "files": "upcase.svg",
+    "landscape": true
+  },
+  {
+    "title": "Upwork",
+    "shortname": "upwork",
+    "url": "https://www.upwork.com/",
+    "files": "upwork.svg",
+    "landscape": true
+  },
+  {
+    "title": "UserTesting",
+    "shortname": "user-testing",
+    "url": "http://www.usertesting.com/",
+    "files": "user-testing.svg",
+    "landscape": true
+  },
+  {
+    "title": "uservoice",
+    "shortname": "uservoice",
+    "url": "https://www.uservoice.com/",
+    "files": "uservoice.svg"
+  },
+  {
+    "title": "V8",
+    "shortname": "v8",
+    "url": "https://developers.google.com/v8/",
+    "files": "v8.svg"
+  },
+  {
+    "title": "V8",
+    "shortname": "v8",
+    "url": "https://developers.google.com/v8/",
+    "files": "v8-ignition.svg"
+  },
+  {
+    "title": "V8",
+    "shortname": "v8",
+    "url": "https://developers.google.com/v8/",
+    "files": "v8-turbofan.svg"
+  },
+  {
+    "title": "Vaadin",
+    "shortname": "vaadin",
+    "url": "https://vaadin.com/",
+    "files": "vaadin.svg",
+    "landscape": true
+  },
+  {
+    "title": "VAddy",
+    "shortname": "vaddy",
+    "url": "http://vaddy.net/",
+    "files": "vaddy.svg"
+  },
+  {
+    "title": "Vagrant",
+    "shortname": "vagrant",
+    "url": "https://www.vagrantup.com/",
+    "files": "vagrant.svg"
+  },
+  {
+    "title": "Vault",
+    "shortname": "vault",
+    "url": "https://www.vaultproject.io/",
+    "files": "vault.svg"
+  },
+  {
+    "title": "VerneMQ",
+    "shortname": "vernemq",
+    "url": "https://verne.mq/",
+    "files": "vernemq.svg"
+  },
+  {
+    "title": "VictorOps",
+    "shortname": "victorops",
+    "url": "https://victorops.com/",
+    "files": "victorops.svg"
+  },
+  {
+    "title": "Vim",
+    "shortname": "vim",
+    "url": "http://www.vim.org/",
+    "files": "vim.svg"
+  },
+  {
+    "title": "Vimeo",
+    "shortname": "vimeo",
+    "url": "https://vimeo.com/",
+    "files": "vimeo.svg",
+    "landscape": true
+  },
+  {
+    "title": "Vimeo",
+    "shortname": "vimeo",
+    "url": "https://vimeo.com/",
+    "files": "vimeo-icon.svg"
+  },
+  {
+    "title": "Vine",
+    "shortname": "vine",
+    "url": "https://vine.co/",
+    "files": "vine.svg"
+  },
+  {
+    "title": "Visa",
+    "shortname": "visa",
+    "url": "https://www.visa.com",
+    "files": "visa.svg"
+  },
+  {
+    "title": "Visa Electron",
+    "shortname": "visaelectron",
+    "url": "https://www.visa.com",
+    "files": "visaelectron.svg"
+  },
+  {
+    "title": "Visual Studio Code",
+    "shortname": "visual-studio-code",
+    "url": "https://code.visualstudio.com/",
+    "files": "visual-studio-code.svg"
+  },
+  {
+    "title": "Visual Website Optimizer",
+    "shortname": "visual_website_optimizer",
+    "url": "https://vwo.com/",
+    "files": "visual_website_optimizer.svg"
+  },
+  {
+    "title": "Vivaldi",
+    "shortname": "vivaldi",
+    "url": "https://vivaldi.com/",
+    "files": "vivaldi.svg"
+  },
+  {
+    "title": "Void",
+    "shortname": "void",
+    "url": "http://www.voidlinux.eu/",
+    "files": "void.svg"
+  },
+  {
+    "title": "Vue.js",
+    "shortname": "vue",
+    "url": "http://vuejs.org/",
+    "files": "vue.svg"
+  },
+  {
+    "title": "Vuetify",
+    "shortname": "vuetifyjs",
+    "url": "https://vuetifyjs.com/",
+    "files": "vuetifyjs.svg"
+  },
+  {
+    "title": "Vulkan",
+    "shortname": "vulkan",
+    "url": "https://www.khronos.org/vulkan/",
+    "files": "vulkan.svg",
+    "landscape": true
+  },
+  {
+    "title": "Vultr",
+    "shortname": "vultr",
+    "url": "https://www.vultr.com/",
+    "files": "vultr.svg",
+    "landscape": true
+  },
+  {
+    "title": "W3C",
+    "shortname": "w3c",
+    "url": "http://www.w3.org/",
+    "files": "w3c.svg"
+  },
+  {
+    "title": "Waffle",
+    "shortname": "waffle",
+    "url": "https://waffle.io/",
+    "files": "waffle.svg"
+  },
+  {
+    "title": "Wagtail",
+    "shortname": "wagtail",
+    "url": "https://wagtail.io/",
+    "files": "wagtail.svg"
+  },
+  {
+    "title": "WakaTime",
+    "shortname": "wakatime",
+    "url": "https://wakatime.com/",
+    "files": "wakatime.svg"
+  },
+  {
+    "title": "Watchman",
+    "shortname": "watchman",
+    "url": "https://facebook.github.io/watchman/",
+    "files": "watchman.svg"
+  },
+  {
+    "title": "Weave",
+    "shortname": "weave",
+    "url": "http://weave.works/",
+    "files": "weave.svg"
+  },
+  {
+    "title": "WebAssembly",
+    "shortname": "webassembly",
+    "url": "http://webassembly.org/",
+    "files": "webassembly.svg"
+  },
+  {
+    "title": "WebComponents",
+    "shortname": "webcomponents",
+    "url": "http://webcomponents.org/",
+    "files": "webcomponents.svg"
+  },
+  {
+    "title": "Webflow",
+    "shortname": "webflow",
+    "url": "https://webflow.com/",
+    "files": "webflow.svg",
+    "landscape": true
+  },
+  {
+    "title": "webhooks",
+    "shortname": "webhooks",
+    "url": "http://www.webhooks.org/",
+    "files": "webhooks.svg"
+  },
+  {
+    "title": "Webmin",
+    "shortname": "webmin",
+    "url": "http://www.webmin.com/",
+    "files": "webmin.svg"
+  },
+  {
+    "title": "webpack",
+    "shortname": "webpack",
+    "url": "http://webpack.github.io/",
+    "files": "webpack.svg"
+  },
+  {
+    "title": "WebPlatform",
+    "shortname": "webplatform",
+    "url": "https://www.webplatform.org/",
+    "files": "webplatform.svg"
+  },
+  {
+    "title": "WebRTC",
+    "shortname": "webrtc",
+    "url": "http://www.webrtc.org/",
+    "files": "webrtc.svg"
+  },
+  {
+    "title": "WebSocket",
+    "shortname": "websocket",
+    "url": "https://www.w3.org/TR/websockets/",
+    "files": "websocket.svg"
+  },
+  {
+    "title": "WebStorm",
+    "shortname": "webstorm",
+    "url": "https://www.jetbrains.com/webstorm/",
+    "files": "webstorm.svg"
+  },
+  {
+    "title": "Webtask",
+    "shortname": "webtask",
+    "url": "https://webtask.io/",
+    "files": "webtask.svg"
+  },
+  {
+    "title": "WebTorrent",
+    "shortname": "webtorrent",
+    "url": "https://webtorrent.io/",
+    "files": "webtorrent.svg"
+  },
+  {
+    "title": "Weebly",
+    "shortname": "weebly",
+    "url": "http://www.weebly.com/",
+    "files": "weebly.svg"
+  },
+  {
+    "title": "Wercker",
+    "shortname": "wercker",
+    "url": "http://wercker.com/",
+    "files": "wercker.svg"
+  },
+  {
+    "title": "Whalar",
+    "shortname": "whalar",
+    "url": "https://whalar.com/",
+    "files": "whalar.svg"
+  },
+  {
+    "title": "WhatsApp",
+    "shortname": "whatsapp",
+    "url": "https://www.whatsapp.com/",
+    "files": "whatsapp.svg"
+  },
+  {
+    "title": "WHATWG",
+    "shortname": "whatwg",
+    "url": "https://whatwg.org/",
+    "files": "whatwg.svg"
+  },
+  {
+    "title": "Wi-Fi",
+    "shortname": "wifi",
+    "url": "http://www.wi-fi.org/",
+    "files": "wifi.svg"
+  },
+  {
+    "title": "Wicket",
+    "shortname": "wicket",
+    "url": "https://wicket.apache.org/",
+    "files": "wicket.svg"
+  },
+  {
+    "title": "Windows",
+    "shortname": "microsoft-windows",
+    "url": "https://www.microsoft.com/windows",
+    "files": "microsoft-windows.svg"
+  },
+  {
+    "title": "Wire",
+    "shortname": "wire",
+    "url": "https://wire.com/",
+    "files": "wire.svg"
+  },
+  {
+    "title": "WiredTree",
+    "shortname": "wiredtree",
+    "url": "https://www.wiredtree.com/",
+    "files": "wiredtree.svg"
+  },
+  {
+    "title": "Wix",
+    "shortname": "wix",
+    "url": "http://www.wix.com/",
+    "files": "wix.svg"
+  },
+  {
+    "title": "WooCommerce",
+    "shortname": "woocommerce",
+    "url": "http://www.woothemes.com/woocommerce/",
+    "files": "woocommerce.svg"
+  },
+  {
+    "title": "Woopra",
+    "shortname": "woopra",
+    "url": "https://www.woopra.com/",
+    "files": "woopra.svg"
+  },
+  {
+    "title": "Wordpress",
+    "shortname": "wordpress",
+    "url": "https://wordpress.org/",
+    "files": "wordpress.svg",
+    "landscape": true
+  },
+  {
+    "title": "Wordpress",
+    "shortname": "wordpress",
+    "url": "https://wordpress.org/",
+    "files": "wordpress-icon.svg"
+  },
+  {
+    "title": "Workboard",
+    "shortname": "workboard",
+    "url": "http://www.workboard.com/",
+    "files": "workboard.svg"
+  },
+  {
+    "title": "WP engine",
+    "shortname": "wpengine",
+    "url": "http://wpengine.com/",
+    "files": "wpengine.svg"
+  },
+  {
+    "title": "Wufoo",
+    "shortname": "wufoo",
+    "url": "http://www.wufoo.com/",
+    "files": "wufoo.svg"
+  },
+  {
+    "title": "X-Cart",
+    "shortname": "xcart",
+    "url": "https://www.x-cart.com/",
+    "files": "xcart.svg",
+    "landscape": true
+  },
+  {
+    "title": "X-Ray Goggles",
+    "shortname": "x-ray-goggles",
+    "url": "https://webmaker.org/goggles",
+    "files": "x-ray-goggles.svg"
+  },
+  {
+    "title": "Xamarin",
+    "shortname": "xamarin",
+    "url": "http://xamarin.com/",
+    "files": "xamarin.svg"
+  },
+  {
+    "title": "XAMPP",
+    "shortname": "xampp",
+    "url": "https://www.apachefriends.org/",
+    "files": "xampp.svg"
+  },
+  {
+    "title": "Xero",
+    "shortname": "xero",
+    "url": "https://www.xero.com/",
+    "files": "xero.svg"
+  },
+  {
+    "title": "Xplenty",
+    "shortname": "xplenty",
+    "url": "https://www.xplenty.com/",
+    "files": "xplenty.svg"
+  },
+  {
+    "title": "Xtend",
+    "shortname": "xtend",
+    "url": "http://www.eclipse.org/xtend/",
+    "files": "xtend.svg"
+  },
+  {
+    "title": "XWiki",
+    "shortname": "xwiki",
+    "url": "http://www.xwiki.org/",
+    "files": "xwiki.svg"
+  },
+  {
+    "title": "Yahoo!",
+    "shortname": "yahoo",
+    "url": "https://search.yahoo.com/",
+    "files": "yahoo.svg",
+    "landscape": true
+  },
+  {
+    "title": "Yammer",
+    "shortname": "yammer",
+    "url": "https://www.yammer.com/",
+    "files": "yammer.svg"
+  },
+  {
+    "title": "Yandex",
+    "shortname": "yandex-ru",
+    "url": "https://www.yandex.ru/",
+    "files": "yandex-ru.svg",
+    "landscape": true
+  },
+  {
+    "title": "Yarn",
+    "shortname": "yarn",
+    "url": "https://yarnpkg.com/",
+    "files": "yarn.svg"
+  },
+  {
+    "title": "YCombinator",
+    "shortname": "ycombinator",
+    "url": "http://www.ycombinator.com/",
+    "files": "ycombinator.svg"
+  },
+  {
+    "title": "Yeoman",
+    "shortname": "yeoman",
+    "url": "http://yeoman.io/",
+    "files": "yeoman.svg"
+  },
+  {
+    "title": "Yii",
+    "shortname": "yii",
+    "url": "http://www.yiiframework.com/",
+    "files": "yii.svg"
+  },
+  {
+    "title": "YouTrack",
+    "shortname": "youtrack",
+    "url": "https://www.jetbrains.com/youtrack/",
+    "files": "youtrack.svg"
+  },
+  {
+    "title": "YouTube",
+    "shortname": "youtube",
+    "url": "https://www.youtube.com/",
+    "files": "youtube.svg"
+  },
+  {
+    "title": "Z-Wave",
+    "shortname": "zwave",
+    "url": "http://www.z-wave.com/",
+    "files": "zwave.svg",
+    "landscape": true
+  },
+  {
+    "title": "Zapier",
+    "shortname": "zapier",
+    "url": "https://zapier.com/",
+    "files": "zapier.svg"
+  },
+  {
+    "title": "Zeit",
+    "shortname": "zeit",
+    "url": "https://zeit.co/",
+    "files": "zeit.svg",
+    "landscape": true
+  },
+  {
+    "title": "Zend Framework",
+    "shortname": "zend-framework",
+    "url": "http://framework.zend.com/",
+    "files": "zend-framework.svg"
+  },
+  {
+    "title": "Zendesk",
+    "shortname": "zendesk",
+    "url": "https://www.zendesk.com/",
+    "files": "zendesk.svg"
+  },
+  {
+    "title": "Zenhub",
+    "shortname": "zenhub",
+    "url": "https://www.zenhub.io/",
+    "files": "zenhub.svg"
+  },
+  {
+    "title": "Zest",
+    "shortname": "zest",
+    "url": "http://zestdocs.org/",
+    "files": "zest.svg"
+  },
+  {
+    "title": "ZigBee",
+    "shortname": "zigbee",
+    "url": "http://www.zigbee.org/",
+    "files": "zigbee.svg"
+  },
+  {
+    "title": "Zoho",
+    "shortname": "zoho",
+    "url": "http://www.zoho.com/",
+    "files": "zoho.svg",
+    "landscape": true
+  },
+  {
+    "title": "Zube",
+    "shortname": "zube",
+    "url": "https://zube.io/",
+    "files": "zube.svg"
+  },
+  {
+    "title": "Zulip",
+    "shortname": "zulip",
+    "url": "https://zulip.com/",
+    "files": "zulip.svg"
+  }
+]
