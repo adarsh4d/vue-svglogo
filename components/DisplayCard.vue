@@ -3,7 +3,7 @@
     <div class="card" @click="downloadFile">
       <img :src="`/logos/${files}`" width="100%" />
     </div>
-    <a :href="url">
+    <a :href="url" target="_blank">
       <p class="title">{{title}}</p>
     </a>
   </div>

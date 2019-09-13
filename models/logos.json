@@ -5591,14 +5591,14 @@
     "title": "slack",
     "shortname": "slack",
     "url": "https://slack.com/",
-    "files": "slack-icon.svg",
-    "landscape": true
+    "files": "slack-icon.svg"
   },
   {
     "title": "slack",
     "shortname": "slack",
     "url": "https://slack.com/",
-    "files": "slack.svg"
+    "files": "slack.svg",
+    "landscape": true
   },
   {
     "title": "slides",
@@ -6173,6 +6173,13 @@
     "shortname": "trello",
     "url": "https://trello.com/",
     "files": "trello.svg"
+  },
+  {
+    "title": "Trustpilot",
+    "shortname": "trustpilot",
+    "url": "https://www.trustpilot.com",
+    "files": "trustpilot.svg",
+    "landscape":true
   },
   {
     "title": "tsuru",
