@@ -2,8 +2,12 @@
   <header>
     <img src="/logo.svg" height="40px" alt="SVGVault logo" />
     <div>
-      <a class="link" href="#">Tweet</a>
-      <a class="link" href="#">Github</a>
+      <a
+        class="link"
+        href="https://twitter.com/intent/tweet?text=A%20collection%20of%201000+%20SVG%20vector%20logos%20https://svg-logo.netlify.com/"
+        target="_blank"
+      >Tweet</a>
+      <a class="link" href="https://github.com/adarsh4d/vue-svglogo">Github</a>
     </div>
   </header>
 </template>

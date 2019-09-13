@@ -1,8 +1,20 @@
-# svglogo
+# SVG Logo
 
-> SVG file of logo
+This is a [SVGPorn](http://svgporn.com/) clone built upon Vue + Nuxt and design inspired for [Feather icon](https://feathericons.com/)
 
-## Build Setup
+### Demo URL
+
+[View the demo here](https://svg-logo.netlify.com/)
+
+### Features
+
+- Clean and minimal design
+- Search logos with [Fuse.js](https://fusejs.io) and [vue-fuse](https://github.com/shayneo/vue-fuse)
+- One click download with [DownloadJS](https://github.com/rndme/download)
+- Infinite scrolling with [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading)
+- Web link for all logo files
+
+### Build Setup
 
 ```bash
 # install dependencies
@@ -19,4 +31,17 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+### :rocket: New Features to implement
+
+- Theme Switcher with Dark Mode
+- Tags for logo
+- Scroll to top button
+
+### Contributing
+
+Any new feature request and contributions are welcomed.
+
+### Credits
+
+- [Gil Barbara](https://github.com/gilbarbara) for the huge colection of clean [SVG Logos](https://github.com/gilbarbara/logos).
+- Lot of design inspiration from [Feather Icon website](https://feathericons.com/).
