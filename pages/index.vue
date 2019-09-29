@@ -18,10 +18,28 @@
       </div>
     </div>
     <div class="container">
-      <div class="content">
+      <div class="content" v-if="result.length>0">
         <Card v-for="l in result" :key="l.name" v-bind="l" />
       </div>
+      <div class="emptystate" v-else>
+        <img src="/empty.png" alt="Search result empty" width="150px" />
+        <h3>No logos found</h3>
+        <p>Try adjusting your search to find what you're looking for.</p>
+        <p class="subtitle">
+          Logo not found? Request
+          <a
+            class="link"
+            href="https://github.com/adarsh4d/vue-svglogo/issues"
+          >here</a>
+        </p>
+      </div>
       <infinite-loading :identifier="result" @infinite="infiniteHandler" v-if="!query"></infinite-loading>
+    </div>
+    <div class="container">
+      <p class="subtitle text-center">
+        Made with by ❤️ by
+        <a href="https://twitter.com/AdarshDK2">@AdarshDK2</a>
+      </p>
     </div>
   </main>
 </template>
@@ -141,5 +159,39 @@ input.search {
   grid-gap: 24px 16px;
   padding: 16px 24px;
   grid-auto-flow: row dense;
+}
+.emptystate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  min-height: 300px;
+  padding: 16px;
+  box-sizing: border-box;
+  text-align: center;
+}
+h3 {
+  font-size: 26px;
+  font-weight: normal;
+  margin-bottom: 0;
+  color: #1a202c;
+}
+p {
+  font-size: 20px;
+  margin-bottom: 0;
+  color: #718096;
+}
+p.subtitle {
+  margin-top: 30px;
+  font-size: 16px;
+}
+a {
+  color: #718096;
+}
+a.link {
+  color: #0066ff;
+}
+.text-center {
+  text-align: center;
 }
 </style>

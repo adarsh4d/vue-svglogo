@@ -1,6 +1,8 @@
 <template>
   <header>
-    <img src="/logo.svg" height="40px" alt="SVGVault logo" />
+    <nuxt-link to="/">
+      <img src="/logo.svg" height="40px" alt="SVGVault logo" />
+    </nuxt-link>
     <div>
       <a
         class="link"
@@ -31,5 +33,8 @@ header {
 }
 .link:hover {
   color: #0066ff;
+}
+.link {
+  color: #718096;
 }
 </style>
