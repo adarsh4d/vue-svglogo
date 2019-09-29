@@ -42,7 +42,7 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: ['@nuxtjs/pwa'],
+  modules: ['@nuxtjs/pwa', '@nuxtjs/google-analytics'],
   /*
    ** Build configuration
    */
@@ -51,5 +51,11 @@ export default {
      ** You can extend webpack config here
      */
     extend(config, ctx) {}
+  },
+  /*
+   ** Google Analytics options
+   */
+  googleAnalytics: {
+    id: 'UA-148411006-2'
   }
 }
