@@ -6,7 +6,6 @@
     <div class="container sticky">
       <div class="searchbar">
         <SearchIcon />
-        <SearchFocus @keyup="focusSearch" />
         <input
           type="search"
           ref="search"
@@ -46,7 +45,6 @@
 
 <script>
 import Card from '~/components/DisplayCard.vue'
-import SearchFocus from '~/components/utils/SearchFocus.vue'
 import SearchIcon from '~/components/icons/search.vue'
 import logos from '~/models/logos.json'
 import InfiniteLoading from 'vue-infinite-loading'
@@ -54,7 +52,6 @@ export default {
   name: 'Home',
   components: {
     Card,
-    SearchFocus,
     SearchIcon,
     InfiniteLoading,
   },
@@ -66,11 +63,6 @@ export default {
     }
   },
   methods: {
-    focusSearch(e) {
-      if (e.key === "/") {
-        this.$refs.search.focus()
-      }
-    },
     looseFocus(e) {
       this.$refs.search.blur()
     },
@@ -97,6 +89,11 @@ export default {
   },
   mounted() {
     this.initalLoad()
+    const MouseTrap = require('mousetrap')
+    MouseTrap.bind('/', (e) => {
+      e.preventDefault()
+      this.$refs.search.focus()
+    })
   }
 }
 </script>

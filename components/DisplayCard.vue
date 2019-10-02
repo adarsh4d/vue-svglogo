@@ -1,7 +1,7 @@
 <template>
   <div :class="{span2:landscape}">
     <div class="card" @click="downloadFile">
-      <img :src="`/logos/${files}`" width="100%" />
+      <img :src="`/logos/${files}`" width="100%" :alt="`${title} logo`" />
     </div>
     <a :href="url" target="_blank">
       <p class="title">{{title}}</p>
