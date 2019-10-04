@@ -1,6 +1,6 @@
 <template>
   <div>
-    <a href="#skipped-content" class="btn-skip" tabindex="1">Skip to main Content</a>
+    <a href="#skipped-content" class="btn-skip">Skip to main Content</a>
     <Header />
     <nuxt />
   </div>
