@@ -4,7 +4,7 @@
       <h1>{{logos.length}} High-quality SVG logos</h1>
     </div>
     <div class="container sticky">
-      <div class="searchbar">
+      <div id="skipped-content" class="searchbar">
         <SearchIcon />
         <input
           type="search"
@@ -37,7 +37,7 @@
     <div class="container">
       <p class="subtitle text-center">
         Made with by ❤️ by
-        <a href="https://twitter.com/AdarshDK2">@AdarshDK2</a>
+        <a href="https://twitter.com/AdarshDK2">@Adarsh DK</a>
       </p>
     </div>
   </main>

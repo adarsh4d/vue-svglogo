@@ -1,5 +1,6 @@
 <template>
   <div>
+    <a href="#skipped-content" class="btn-skip" tabindex="1">Skip to main Content</a>
     <Header />
     <nuxt />
   </div>
@@ -20,5 +21,19 @@ html {
   box-sizing: border-box;
   color: #343a40;
   background: #f8f9fa;
+}
+.btn-skip {
+  position: fixed;
+  left: 0;
+  right: 0;
+  background: #0066ff;
+  color: #ffffff;
+  top: -50px;
+  text-align: center;
+  padding: 10px;
+}
+.btn-skip:active,
+.btn-skip:focus {
+  top: 0;
 }
 </style>
