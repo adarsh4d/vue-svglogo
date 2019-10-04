@@ -1,17 +1,25 @@
 <template>
-  <header>
-    <nuxt-link to="/">
-      <img src="/logo.svg" height="40px" alt="SVGVault logo" />
-    </nuxt-link>
+  <nav>
+    <div>
+      <nuxt-link to="/">
+        <img src="/logo.svg" height="40px" alt="SVGVault logo" />
+      </nuxt-link>
+    </div>
     <div>
       <a
         class="link"
         href="https://twitter.com/intent/tweet?text=A%20collection%20of%201000+%20SVG%20vector%20logos%20https://svg-logo.netlify.com/"
         target="_blank"
+        rel="noreferrer"
       >Tweet</a>
-      <a class="link" href="https://github.com/adarsh4d/vue-svglogo">Github</a>
+      <a
+        class="link"
+        href="https://github.com/adarsh4d/vue-svglogo"
+        target="_blank"
+        rel="noreferrer"
+      >Github</a>
     </div>
-  </header>
+  </nav>
 </template>
 
 <script>
@@ -21,7 +29,7 @@ export default {
 </script>
 
 <style scoped>
-header {
+nav {
   padding: 16px 24px;
   display: grid;
   grid-template-columns: 1fr auto;
@@ -35,6 +43,6 @@ header {
   color: #0066ff;
 }
 .link {
-  color: #718096;
+  color: #343a40;
 }
 </style>

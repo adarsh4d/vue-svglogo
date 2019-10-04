@@ -1,9 +1,9 @@
 <template>
   <div :class="{span2:landscape}">
-    <div class="card" @click="downloadFile">
+    <div class="card" @click="downloadFile" @keyup.enter="downloadFile" tabindex="0">
       <img :src="`/logos/${files}`" width="100%" :alt="`${title} logo`" />
     </div>
-    <a :href="url" target="_blank">
+    <a :href="url" target="_blank" tabindex="-1" rel="noreferrer">
       <p class="title">{{title}}</p>
     </a>
   </div>
