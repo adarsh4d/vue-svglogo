@@ -21,7 +21,7 @@
         <Card v-for="l in result" :key="l.name" v-bind="l" />
       </div>
       <div class="emptystate" v-else>
-        <img src="/empty.png" alt="Search result empty" width="150px" />
+        <img src="/empty.webp" alt="Search result empty" width="150px" />
         <h3>No logos found</h3>
         <p>Try adjusting your search to find what you're looking for.</p>
         <p class="subtitle">
@@ -94,6 +94,11 @@ export default {
       e.preventDefault()
       this.$refs.search.focus()
     })
+  },
+  head() {
+    return {
+      title: 'SVG Logos'
+    }
   }
 }
 </script>
@@ -176,14 +181,14 @@ h3 {
 p {
   font-size: 20px;
   margin-bottom: 0;
-  color: #718096;
+  color: #343a40;
 }
 p.subtitle {
   margin-top: 30px;
   font-size: 16px;
 }
 a {
-  color: #718096;
+  color: #343a40;
 }
 a.link {
   color: #0066ff;

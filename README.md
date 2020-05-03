@@ -39,7 +39,7 @@ $ npm run generate
 
 ### Contributing
 
-Any new feature request and contributions are welcomed.
+Any new feature requests and contributions are welcome.
 
 ### Credits
 
