@@ -22,12 +22,6 @@
   </nav>
 </template>
 
-<script>
-export default {
-
-}
-</script>
-
 <style scoped>
 nav {
   padding: 16px 24px;

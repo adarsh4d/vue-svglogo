@@ -1,7 +1,7 @@
 <template>
   <main>
     <div class="banner">
-      <h1>{{logos.length}} High-quality SVG logos</h1>
+      <h1>{{ logos.length }} High-quality SVG logos</h1>
     </div>
     <div class="container sticky">
       <div id="skipped-content" class="searchbar">
@@ -17,7 +17,7 @@
       </div>
     </div>
     <div class="container">
-      <div class="content" v-if="result.length>0">
+      <div class="content" v-if="result.length > 0">
         <Card v-for="l in result" :key="l.name" v-bind="l" />
       </div>
       <div class="emptystate" v-else>
@@ -26,13 +26,16 @@
         <p>Try adjusting your search to find what you're looking for.</p>
         <p class="subtitle">
           Logo not found? Request
-          <a
-            class="link"
-            href="https://github.com/adarsh4d/vue-svglogo/issues"
-          >here</a>
+          <a class="link" href="https://github.com/adarsh4d/vue-svglogo/issues"
+            >here</a
+          >
         </p>
       </div>
-      <infinite-loading :identifier="result" @infinite="infiniteHandler" v-if="!query"></infinite-loading>
+      <infinite-loading
+        :identifier="result"
+        @infinite="infiniteHandler"
+        v-if="!query"
+      ></infinite-loading>
     </div>
     <div class="container">
       <p class="subtitle text-center">
@@ -44,63 +47,60 @@
 </template>
 
 <script>
-import Card from '~/components/DisplayCard.vue'
-import SearchIcon from '~/components/icons/search.vue'
-import logos from '~/models/logos.json'
-import InfiniteLoading from 'vue-infinite-loading'
+import Card from "~/components/DisplayCard.vue";
+import SearchIcon from "~/components/icons/search.vue";
+import logos from "~/models/logos.json";
+import InfiniteLoading from "vue-infinite-loading";
 export default {
-  name: 'Home',
-  components: {
-    Card,
-    SearchIcon,
-    InfiniteLoading,
-  },
-  data() {
-    return {
-      logos,
-      query: '',
-      result: [],
-    }
-  },
+  name: "Home",
+  components: { Card, SearchIcon, InfiniteLoading },
+  data: () => ({
+    logos,
+    query: "",
+    result: []
+  }),
   methods: {
-    looseFocus(e) {
-      this.$refs.search.blur()
+    looseFocus(el) {
+      el.target.blur();
     },
     infiniteHandler() {
-      let length = this.result.length
-      let temp = this.logos.slice(length, length + 100)
-      this.result.push(...temp)
+      let length = this.result.length;
+      let temp = this.logos.slice(length, length + 100);
+      this.result.push(...temp);
     },
     initalLoad() {
-      this.result = this.logos.slice(0, 100)
+      this.result = this.logos.slice(0, 100);
     }
   },
   watch: {
     query() {
-      window.scroll({ top: 0, left: 0, behavior: 'smooth' })
+      window.scroll({ top: 0, left: 0, behavior: "smooth" });
       if (this.query.trim() === "") {
-        this.initalLoad()
-      }
-      else {
-        this.$search(this.query, this.logos, { keys: ['shortname'], threshold: 0.1, })
-          .then(res => { this.result = res })
+        this.initalLoad();
+      } else {
+        this.$search(this.query, this.logos, {
+          keys: ["shortname"],
+          threshold: 0.1
+        }).then(res => {
+          this.result = res;
+        });
       }
     }
   },
   mounted() {
-    this.initalLoad()
-    const MouseTrap = require('mousetrap')
-    MouseTrap.bind('/', (e) => {
-      e.preventDefault()
-      this.$refs.search.focus()
-    })
+    this.initalLoad();
+    const MouseTrap = require("mousetrap");
+    MouseTrap.bind("/", e => {
+      e.preventDefault();
+      this.$refs.search.focus();
+    });
   },
   head() {
     return {
-      title: 'SVG Logos'
-    }
+      title: "SVG Logos"
+    };
   }
-}
+};
 </script>
 
 <style>
